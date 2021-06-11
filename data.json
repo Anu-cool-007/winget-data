@@ -1,0 +1,7662 @@
+[
+  {
+    "name": "3CXSoftphone",
+    "company": "3CX"
+  },
+  {
+    "name": "Robo3T",
+    "company": "3T"
+  },
+  {
+    "name": "Robo3TBeta",
+    "company": "3T"
+  },
+  {
+    "name": "4tTrayMinimizer",
+    "company": "4tNiagaraSoftware"
+  },
+  {
+    "name": "ndm",
+    "company": "720kb"
+  },
+  {
+    "name": "Aya",
+    "company": "7room"
+  },
+  {
+    "name": "7zip",
+    "company": "7zip"
+  },
+  {
+    "name": "7zipAlpha",
+    "company": "7zip"
+  },
+  {
+    "name": "VirtualOfficeDesktop",
+    "company": "8x8"
+  },
+  {
+    "name": "Cube",
+    "company": "Aardappel"
+  },
+  {
+    "name": "Cube2",
+    "company": "Aardappel"
+  },
+  {
+    "name": "AbaClient",
+    "company": "Abacus"
+  },
+  {
+    "name": "AbiWord",
+    "company": "AbiSource"
+  },
+  {
+    "name": "Gource",
+    "company": "acaudwell"
+  },
+  {
+    "name": "acfunlive",
+    "company": "acfun"
+  },
+  {
+    "name": "arlive",
+    "company": "acfun"
+  },
+  {
+    "name": "CutePDFWriter",
+    "company": "AcroSoftware"
+  },
+  {
+    "name": "0patch",
+    "company": "ACROSSecurity"
+  },
+  {
+    "name": "ActifileAgent",
+    "company": "Actifile"
+  },
+  {
+    "name": "ActivePerl",
+    "company": "ActiveState"
+  },
+  {
+    "name": "KomodoEdit",
+    "company": "ActiveState"
+  },
+  {
+    "name": "KomodoIDE",
+    "company": "ActiveState"
+  },
+  {
+    "name": "ActivityWatch",
+    "company": "ActivityWatch"
+  },
+  {
+    "name": "ADAMANTMessenger",
+    "company": "ADAMANTFoundation"
+  },
+  {
+    "name": "GraphiQL",
+    "company": "AdamMiskiewicz"
+  },
+  {
+    "name": "AdGuard",
+    "company": "AdGuard"
+  },
+  {
+    "name": "AdobeAcrobatReaderDC",
+    "company": "Adobe"
+  },
+  {
+    "name": "Brackets",
+    "company": "Adobe"
+  },
+  {
+    "name": "Cryptr",
+    "company": "Adobe"
+  },
+  {
+    "name": "OpenJDK",
+    "company": "AdoptOpenJDK"
+  },
+  {
+    "name": "FileConverter",
+    "company": "AdrienAllard"
+  },
+  {
+    "name": "Aegisub",
+    "company": "Aegisub"
+  },
+  {
+    "name": "Aether",
+    "company": "Aether"
+  },
+  {
+    "name": "Motrix",
+    "company": "agalwood"
+  },
+  {
+    "name": "1Password",
+    "company": "AgileBits"
+  },
+  {
+    "name": "LabAdvisor",
+    "company": "Agilent"
+  },
+  {
+    "name": "AIMP",
+    "company": "AIMP"
+  },
+  {
+    "name": "Blobsaver",
+    "company": "Airsquared"
+  },
+  {
+    "name": "Thonny",
+    "company": "AivarAnnamaa"
+  },
+  {
+    "name": "AkelPad",
+    "company": "AkelPad"
+  },
+  {
+    "name": "Alacritty",
+    "company": "Alacritty"
+  },
+  {
+    "name": "Viewer",
+    "company": "Alchemy"
+  },
+  {
+    "name": "CoreTemp",
+    "company": "alcpu"
+  },
+  {
+    "name": "Toastify",
+    "company": "Aleab"
+  },
+  {
+    "name": "Sigma-File-Manager",
+    "company": "AlekseyHoffman"
+  },
+  {
+    "name": "Spek",
+    "company": "AlexanderKojevnikov"
+  },
+  {
+    "name": "Cerebro",
+    "company": "AlexandrSubbotin"
+  },
+  {
+    "name": "g-desktop-suite",
+    "company": "alexkim205"
+  },
+  {
+    "name": "G14ControlV2",
+    "company": "AlexRedden"
+  },
+  {
+    "name": "DVDStyler",
+    "company": "AlexThuering"
+  },
+  {
+    "name": "AlbumArtDownloader",
+    "company": "alexvallat"
+  },
+  {
+    "name": "DoubleCommander",
+    "company": "alexx2000"
+  },
+  {
+    "name": "Algodoo",
+    "company": "Algoryx"
+  },
+  {
+    "name": "alipaydevelopmentassistant",
+    "company": "alibaba"
+  },
+  {
+    "name": "dingtalk",
+    "company": "alibaba"
+  },
+  {
+    "name": "lightproxy",
+    "company": "alibaba"
+  },
+  {
+    "name": "miniprogramstudio",
+    "company": "alibaba"
+  },
+  {
+    "name": "yuque",
+    "company": "alibaba"
+  },
+  {
+    "name": "AHMSystemManager",
+    "company": "Allen&Heath"
+  },
+  {
+    "name": "AvantisDirector",
+    "company": "Allen&Heath"
+  },
+  {
+    "name": "CustomControlEditor",
+    "company": "Allen&Heath"
+  },
+  {
+    "name": "dLiveDirector",
+    "company": "Allen&Heath"
+  },
+  {
+    "name": "SQMixPad",
+    "company": "Allen&Heath"
+  },
+  {
+    "name": "MicrosoftVirtualEarthSatellite",
+    "company": "AllMapSoft"
+  },
+  {
+    "name": "Salamander",
+    "company": "Altap"
+  },
+  {
+    "name": "AltDrag",
+    "company": "AltDrag"
+  },
+  {
+    "name": "AWSCLI",
+    "company": "Amazon"
+  },
+  {
+    "name": "Chime",
+    "company": "Amazon"
+  },
+  {
+    "name": "Corretto",
+    "company": "Amazon"
+  },
+  {
+    "name": "Kindle",
+    "company": "Amazon"
+  },
+  {
+    "name": "Music",
+    "company": "Amazon"
+  },
+  {
+    "name": "SAM-CLI",
+    "company": "Amazon"
+  },
+  {
+    "name": "SendToKindle",
+    "company": "Amazon"
+  },
+  {
+    "name": "WorkspacesClient",
+    "company": "Amazon"
+  },
+  {
+    "name": "RyzenMaster",
+    "company": "AMD"
+  },
+  {
+    "name": "Ferdi",
+    "company": "AmineMouafik"
+  },
+  {
+    "name": "Anaconda3",
+    "company": "Anaconda"
+  },
+  {
+    "name": "Miniconda3",
+    "company": "Anaconda"
+  },
+  {
+    "name": "TouchVPN",
+    "company": "AnchorFree"
+  },
+  {
+    "name": "ExactAudioCopy",
+    "company": "AndreWiethoff"
+  },
+  {
+    "name": "Alpha-Video",
+    "company": "AndrewsTech"
+  },
+  {
+    "name": "Corkscrew",
+    "company": "androidWG"
+  },
+  {
+    "name": "AngryIPScanner",
+    "company": "angryziber"
+  },
+  {
+    "name": "ResourceHacker",
+    "company": "AngusJohnson"
+  },
+  {
+    "name": "Anki",
+    "company": "Anki"
+  },
+  {
+    "name": "BulkImageDownloader",
+    "company": "AntibodySoftware"
+  },
+  {
+    "name": "WizFile",
+    "company": "AntibodySoftware"
+  },
+  {
+    "name": "WizKey",
+    "company": "AntibodySoftware"
+  },
+  {
+    "name": "WizMouse",
+    "company": "AntibodySoftware"
+  },
+  {
+    "name": "WizTree",
+    "company": "AntibodySoftware"
+  },
+  {
+    "name": "AntiMicro",
+    "company": "AntiMicro"
+  },
+  {
+    "name": "SoundSwitch",
+    "company": "AntoineAflalo"
+  },
+  {
+    "name": "AntRenamer",
+    "company": "AntSoftware"
+  },
+  {
+    "name": "AnyDesk",
+    "company": "AnyDeskSoftwareGmbH"
+  },
+  {
+    "name": "AnyDeskMSI",
+    "company": "AnyDeskSoftwareGmbH"
+  },
+  {
+    "name": "Anydo",
+    "company": "Anydo"
+  },
+  {
+    "name": "Backupper",
+    "company": "AOMEI"
+  },
+  {
+    "name": "PartitionAssistant",
+    "company": "AOMEI"
+  },
+  {
+    "name": "DirectoryStudio",
+    "company": "Apache"
+  },
+  {
+    "name": "OpenOffice",
+    "company": "Apache"
+  },
+  {
+    "name": "Xampp",
+    "company": "ApacheFriends"
+  },
+  {
+    "name": "appget",
+    "company": "appget"
+  },
+  {
+    "name": "iTunes",
+    "company": "Apple"
+  },
+  {
+    "name": "SimplyFortran",
+    "company": "Approximatrix"
+  },
+  {
+    "name": "JDownloader",
+    "company": "AppWork"
+  },
+  {
+    "name": "HVManager",
+    "company": "AprelTech"
+  },
+  {
+    "name": "PowerManager",
+    "company": "AprelTech"
+  },
+  {
+    "name": "SilentInstallBuilder",
+    "company": "AprelTech"
+  },
+  {
+    "name": "SidebarDiagnostics",
+    "company": "ArcadeRenegade"
+  },
+  {
+    "name": "ArduinoIDE",
+    "company": "ArduinoSA"
+  },
+  {
+    "name": "StrixMusic",
+    "company": "ArloG"
+  },
+  {
+    "name": "GnuArmEmbeddedToolchain",
+    "company": "Arm"
+  },
+  {
+    "name": "ArmagetronAdvanced",
+    "company": "ArmagetronAdvanced"
+  },
+  {
+    "name": "WindowsAutoNightMode",
+    "company": "Armin2208"
+  },
+  {
+    "name": "Artha",
+    "company": "Artha"
+  },
+  {
+    "name": "GhostScript",
+    "company": "ArtifexSoftware"
+  },
+  {
+    "name": "RocksNDiamonds",
+    "company": "Artsoft"
+  },
+  {
+    "name": "DefaultAudio",
+    "company": "AshleyStone"
+  },
+  {
+    "name": "SitdownMW",
+    "company": "AshleyStone"
+  },
+  {
+    "name": "AstroGrep",
+    "company": "AstroComma"
+  },
+  {
+    "name": "Sourcetree",
+    "company": "Atlassian"
+  },
+  {
+    "name": "ATLauncher",
+    "company": "ATLauncher"
+  },
+  {
+    "name": "KeyManager",
+    "company": "ATNSOFT"
+  },
+  {
+    "name": "KeyRemapper",
+    "company": "ATNSOFT"
+  },
+  {
+    "name": "TextPaster",
+    "company": "ATNSOFT"
+  },
+  {
+    "name": "VirtualDJ",
+    "company": "AtomixProductions"
+  },
+  {
+    "name": "MediaPlayer",
+    "company": "Audacious"
+  },
+  {
+    "name": "Audacity",
+    "company": "Audacity"
+  },
+  {
+    "name": "Mantle",
+    "company": "AuraSide"
+  },
+  {
+    "name": "Aurora",
+    "company": "Aurora"
+  },
+  {
+    "name": "DiskDefrag",
+    "company": "Auslogics"
+  },
+  {
+    "name": "Authpass",
+    "company": "Authpass"
+  },
+  {
+    "name": "Fusion360",
+    "company": "Autodesk"
+  },
+  {
+    "name": "sketchbook",
+    "company": "Autodesk"
+  },
+  {
+    "name": "AutoIt",
+    "company": "AutoIt"
+  },
+  {
+    "name": "Simplenote",
+    "company": "Automattic"
+  },
+  {
+    "name": "Wordpress",
+    "company": "Automattic"
+  },
+  {
+    "name": "WordpressBeta",
+    "company": "Automattic"
+  },
+  {
+    "name": "AviSynth",
+    "company": "AviSynth"
+  },
+  {
+    "name": "AxCrypt",
+    "company": "AxCrypt"
+  },
+  {
+    "name": "AxisCameraStation",
+    "company": "AxisCommunications"
+  },
+  {
+    "name": "AxisCameraStation-Preview",
+    "company": "AxisCommunications"
+  },
+  {
+    "name": "GitKraken",
+    "company": "Axosoft"
+  },
+  {
+    "name": "Zulu",
+    "company": "Azul"
+  },
+  {
+    "name": "BadlionClient",
+    "company": "Badlion"
+  },
+  {
+    "name": "baidu-devtool",
+    "company": "baidu"
+  },
+  {
+    "name": "translate",
+    "company": "baidu"
+  },
+  {
+    "name": "RenderDoc",
+    "company": "BaldurKarlsson"
+  },
+  {
+    "name": "BalenaCLI",
+    "company": "Balena"
+  },
+  {
+    "name": "Etcher",
+    "company": "Balena"
+  },
+  {
+    "name": "Bandicam",
+    "company": "BandicamCompany"
+  },
+  {
+    "name": "Bandicut",
+    "company": "BandicamCompany"
+  },
+  {
+    "name": "Bandizip",
+    "company": "Bandisoft"
+  },
+  {
+    "name": "Honeyview",
+    "company": "Bandisoft"
+  },
+  {
+    "name": "basilisk",
+    "company": "basilisk"
+  },
+  {
+    "name": "iPlayer",
+    "company": "BBC"
+  },
+  {
+    "name": "BKChem",
+    "company": "BedaKosata"
+  },
+  {
+    "name": "BeeBEEP",
+    "company": "BeeBEEP"
+  },
+  {
+    "name": "Beeftext",
+    "company": "Beeftext"
+  },
+  {
+    "name": "beekeeper-studio",
+    "company": "beekeeper-studio"
+  },
+  {
+    "name": "Advisor",
+    "company": "Belarc"
+  },
+  {
+    "name": "Belgium-eIDmiddleware",
+    "company": "BelgianGovernment"
+  },
+  {
+    "name": "Linphone",
+    "company": "BelledonneCommunications"
+  },
+  {
+    "name": "LibericaJDK11",
+    "company": "BellSoft"
+  },
+  {
+    "name": "LibericaJDK11Full",
+    "company": "BellSoft"
+  },
+  {
+    "name": "LibericaJDK14",
+    "company": "BellSoft"
+  },
+  {
+    "name": "LibericaJDK14Full",
+    "company": "BellSoft"
+  },
+  {
+    "name": "LibericaJDK15",
+    "company": "BellSoft"
+  },
+  {
+    "name": "LibericaJDK15Full",
+    "company": "BellSoft"
+  },
+  {
+    "name": "LibericaJDK16",
+    "company": "BellSoft"
+  },
+  {
+    "name": "LibericaJDK16Full",
+    "company": "BellSoft"
+  },
+  {
+    "name": "LibericaJDK8",
+    "company": "BellSoft"
+  },
+  {
+    "name": "LibericaJDK8Full",
+    "company": "BellSoft"
+  },
+  {
+    "name": "Betaflight-Configurator",
+    "company": "Betaflight"
+  },
+  {
+    "name": "Launcher",
+    "company": "Bethesda"
+  },
+  {
+    "name": "BetterCrewLink",
+    "company": "BetterCrewLink"
+  },
+  {
+    "name": "BiglyBT",
+    "company": "BiglySoftware"
+  },
+  {
+    "name": "Livehime",
+    "company": "Bilibili"
+  },
+  {
+    "name": "Binance",
+    "company": "BinanceTech"
+  },
+  {
+    "name": "ClipboardFusion",
+    "company": "BinaryFortress"
+  },
+  {
+    "name": "DisplayFusion",
+    "company": "BinaryFortress"
+  },
+  {
+    "name": "FileSeek",
+    "company": "BinaryFortress"
+  },
+  {
+    "name": "LogFusion",
+    "company": "BinaryFortress"
+  },
+  {
+    "name": "TrayStatus",
+    "company": "BinaryFortress"
+  },
+  {
+    "name": "VoiceBot",
+    "company": "BinaryFortress"
+  },
+  {
+    "name": "WindowInspector",
+    "company": "BinaryFortress"
+  },
+  {
+    "name": "WindowsFirewallControl",
+    "company": "BiniSoft"
+  },
+  {
+    "name": "Bisq",
+    "company": "Bisq"
+  },
+  {
+    "name": "WSLDiskShrinker",
+    "company": "BiSS"
+  },
+  {
+    "name": "BitcoinCore",
+    "company": "BitcoinCoreProject"
+  },
+  {
+    "name": "Bitdefender",
+    "company": "Bitdefender"
+  },
+  {
+    "name": "BitdefenderAntivirusFree",
+    "company": "Bitdefender"
+  },
+  {
+    "name": "BitDriverUpdater",
+    "company": "BitGuardian"
+  },
+  {
+    "name": "ProcessLasso",
+    "company": "BitSum"
+  },
+  {
+    "name": "ProcessLassoBeta",
+    "company": "BitSum"
+  },
+  {
+    "name": "SSHClient",
+    "company": "bitvise"
+  },
+  {
+    "name": "Bitwarden",
+    "company": "Bitwarden"
+  },
+  {
+    "name": "bitwig",
+    "company": "bitwig"
+  },
+  {
+    "name": "Shadow",
+    "company": "Blade"
+  },
+  {
+    "name": "BleachBit",
+    "company": "BleachBit"
+  },
+  {
+    "name": "Blender",
+    "company": "BlenderFoundation"
+  },
+  {
+    "name": "Blitz",
+    "company": "Blitz"
+  },
+  {
+    "name": "BattleNet",
+    "company": "Blizzard"
+  },
+  {
+    "name": "Blocknet",
+    "company": "Blocknetproject"
+  },
+  {
+    "name": "Dev-C++",
+    "company": "Bloodshed"
+  },
+  {
+    "name": "bluecfd",
+    "company": "bluecfd"
+  },
+  {
+    "name": "BlueJeans",
+    "company": "BlueJeans"
+  },
+  {
+    "name": "BlueJ",
+    "company": "BlueJTeam"
+  },
+  {
+    "name": "ClipX",
+    "company": "bluemars"
+  },
+  {
+    "name": "ClipXBeta",
+    "company": "bluemars"
+  },
+  {
+    "name": "FlashpointInfinity",
+    "company": "bluemaxima"
+  },
+  {
+    "name": "BlueStacks",
+    "company": "BlueStack"
+  },
+  {
+    "name": "Gow",
+    "company": "bmatzelle"
+  },
+  {
+    "name": "WMPTagPlus",
+    "company": "BMproductions"
+  },
+  {
+    "name": "SendSX",
+    "company": "Bome"
+  },
+  {
+    "name": "Glogg",
+    "company": "Bonnefon"
+  },
+  {
+    "name": "Wavebox",
+    "company": "Bookry"
+  },
+  {
+    "name": "boostnote",
+    "company": "boostio"
+  },
+  {
+    "name": "Listary",
+    "company": "Bopsoft"
+  },
+  {
+    "name": "HttpMasterExpress",
+    "company": "Borvid"
+  },
+  {
+    "name": "HttpMasterProfessional",
+    "company": "Borvid"
+  },
+  {
+    "name": "deepvocal",
+    "company": "Boxstar"
+  },
+  {
+    "name": "deepvocal-toolbox",
+    "company": "Boxstar"
+  },
+  {
+    "name": "BPBible",
+    "company": "BPBible"
+  },
+  {
+    "name": "BraveBrowser",
+    "company": "BraveSoftware"
+  },
+  {
+    "name": "BraveBrowser-Nightly",
+    "company": "BraveSoftware"
+  },
+  {
+    "name": "uwphook",
+    "company": "brianlima"
+  },
+  {
+    "name": "imageresizer",
+    "company": "bricelam"
+  },
+  {
+    "name": "Studio",
+    "company": "BrickLink"
+  },
+  {
+    "name": "CanvasWorkspace",
+    "company": "Brother"
+  },
+  {
+    "name": "Collision",
+    "company": "BrunoNova"
+  },
+  {
+    "name": "DrMIPS",
+    "company": "BrunoNova"
+  },
+  {
+    "name": "BrutalChess",
+    "company": "BrutalChess"
+  },
+  {
+    "name": "BullzipPDFStudio",
+    "company": "Bullzip"
+  },
+  {
+    "name": "PDFPrinter",
+    "company": "Bullzip"
+  },
+  {
+    "name": "BumpTop",
+    "company": "BumpTechnologies"
+  },
+  {
+    "name": "BurnAwareFree",
+    "company": "Burnaware"
+  },
+  {
+    "name": "Buttercup",
+    "company": "Buttercup"
+  },
+  {
+    "name": "bytedance-devtool",
+    "company": "bytedance"
+  },
+  {
+    "name": "BZFlag",
+    "company": "BZFlag"
+  },
+  {
+    "name": "tenhou",
+    "company": "c-egg"
+  },
+  {
+    "name": "qBittorrent-Enhanced-Edition",
+    "company": "c0re100"
+  },
+  {
+    "name": "CacheMonkey",
+    "company": "CacheMonkey"
+  },
+  {
+    "name": "CASecureBrowser",
+    "company": "CAI"
+  },
+  {
+    "name": "calibre",
+    "company": "calibre"
+  },
+  {
+    "name": "champ-r",
+    "company": "cangzhang"
+  },
+  {
+    "name": "CDBurnerXP",
+    "company": "Canneverbe"
+  },
+  {
+    "name": "Juju",
+    "company": "Canonical"
+  },
+  {
+    "name": "MicroK8s",
+    "company": "Canonical"
+  },
+  {
+    "name": "Multipass",
+    "company": "Canonical"
+  },
+  {
+    "name": "Ubuntu",
+    "company": "Canonical"
+  },
+  {
+    "name": "AdvancedInstaller",
+    "company": "Caphyon"
+  },
+  {
+    "name": "Hover",
+    "company": "Caphyon"
+  },
+  {
+    "name": "Caprine",
+    "company": "Caprine"
+  },
+  {
+    "name": "Captura",
+    "company": "Captura"
+  },
+  {
+    "name": "Caret",
+    "company": "Caret"
+  },
+  {
+    "name": "CaretBeta",
+    "company": "Caret"
+  },
+  {
+    "name": "JiraStopWatch",
+    "company": "CarstenGehling"
+  },
+  {
+    "name": "HFSExplorer",
+    "company": "Catacombae"
+  },
+  {
+    "name": "SocketTools10",
+    "company": "CatalystDevelopment"
+  },
+  {
+    "name": "cccp",
+    "company": "cccp"
+  },
+  {
+    "name": "AladinDesktop",
+    "company": "CDS"
+  },
+  {
+    "name": "Celestia",
+    "company": "Celestia"
+  },
+  {
+    "name": "Bas21",
+    "company": "Cencit"
+  },
+  {
+    "name": "CentBrowser",
+    "company": "CentStudio"
+  },
+  {
+    "name": "cerebro",
+    "company": "cerebroapp"
+  },
+  {
+    "name": "CertifySSLManager",
+    "company": "CertifyTheWeb"
+  },
+  {
+    "name": "CTools",
+    "company": "Chadsoft"
+  },
+  {
+    "name": "smarttaskbar",
+    "company": "chanplecai"
+  },
+  {
+    "name": "Spike",
+    "company": "Chatflow"
+  },
+  {
+    "name": "Chatty",
+    "company": "Chatty"
+  },
+  {
+    "name": "chefdk",
+    "company": "chef"
+  },
+  {
+    "name": "instantjchem",
+    "company": "ChemAxon"
+  },
+  {
+    "name": "jchemdotnetapi",
+    "company": "ChemAxon"
+  },
+  {
+    "name": "Marvin",
+    "company": "ChemAxon"
+  },
+  {
+    "name": "Kaku",
+    "company": "Chia-Lung"
+  },
+  {
+    "name": "GUIforChiaBlockchain",
+    "company": "ChiaNetwork"
+  },
+  {
+    "name": "CCom",
+    "company": "ChilliBits"
+  },
+  {
+    "name": "ComposeGenerator",
+    "company": "ChilliBits"
+  },
+  {
+    "name": "CHIRP",
+    "company": "CHIRP"
+  },
+  {
+    "name": "smartrename",
+    "company": "chrdavis"
+  },
+  {
+    "name": "Clink",
+    "company": "chrisant996"
+  },
+  {
+    "name": "Twine",
+    "company": "ChrisKlimas"
+  },
+  {
+    "name": "GlassCannon",
+    "company": "ChristianAviBulan"
+  },
+  {
+    "name": "xca",
+    "company": "ChristianHohnstadt"
+  },
+  {
+    "name": "Lightscreen",
+    "company": "ChristianKaiser"
+  },
+  {
+    "name": "MiKTeX",
+    "company": "ChristianSchenk"
+  },
+  {
+    "name": "CircuitDiagram",
+    "company": "CircuitDiagram"
+  },
+  {
+    "name": "CiscoWebexMeetings",
+    "company": "Cisco"
+  },
+  {
+    "name": "Jabber",
+    "company": "Cisco"
+  },
+  {
+    "name": "WebexTeams",
+    "company": "Cisco"
+  },
+  {
+    "name": "ClamWin",
+    "company": "ClamWin"
+  },
+  {
+    "name": "PathCopyCopy",
+    "company": "CLechasseur"
+  },
+  {
+    "name": "bottom",
+    "company": "Clement"
+  },
+  {
+    "name": "Clementine",
+    "company": "Clementine"
+  },
+  {
+    "name": "ClickUp",
+    "company": "ClickUp"
+  },
+  {
+    "name": "Clockify",
+    "company": "Clockify"
+  },
+  {
+    "name": "CloneSpy",
+    "company": "CloneSpy"
+  },
+  {
+    "name": "CloudApp",
+    "company": "CloudApp"
+  },
+  {
+    "name": "Warp",
+    "company": "Cloudflare"
+  },
+  {
+    "name": "mpc-hc",
+    "company": "clsid2"
+  },
+  {
+    "name": "hakchi2",
+    "company": "ClusterM"
+  },
+  {
+    "name": "ProwessIQ",
+    "company": "CMIE"
+  },
+  {
+    "name": "MeshLab",
+    "company": "CNRISTI"
+  },
+  {
+    "name": "LICEcap",
+    "company": "Cockos"
+  },
+  {
+    "name": "REAPER",
+    "company": "Cockos"
+  },
+  {
+    "name": "cocos-dashboard",
+    "company": "cocos"
+  },
+  {
+    "name": "Carnac",
+    "company": "code52"
+  },
+  {
+    "name": "Codeblocks",
+    "company": "Codeblocks"
+  },
+  {
+    "name": "K-LiteCodecPackBasic",
+    "company": "CodecGuide"
+  },
+  {
+    "name": "K-LiteCodecPackFull",
+    "company": "CodecGuide"
+  },
+  {
+    "name": "K-LiteCodecPackMega",
+    "company": "CodecGuide"
+  },
+  {
+    "name": "K-LiteCodecPackStandard",
+    "company": "CodecGuide"
+  },
+  {
+    "name": "Launchy",
+    "company": "CodeJelly"
+  },
+  {
+    "name": "CodeLite",
+    "company": "CodeLite"
+  },
+  {
+    "name": "TeraCopy",
+    "company": "CodeSector"
+  },
+  {
+    "name": "BorderlessGaming",
+    "company": "Codeusa"
+  },
+  {
+    "name": "ColdTurkeyBlocker",
+    "company": "ColdTurkeySoftware"
+  },
+  {
+    "name": "xming",
+    "company": "colinharrison"
+  },
+  {
+    "name": "2021DigitalAPExams",
+    "company": "CollegeBoard"
+  },
+  {
+    "name": "APDigitalExams",
+    "company": "CollegeBoard"
+  },
+  {
+    "name": "stack",
+    "company": "commercialhaskell"
+  },
+  {
+    "name": "GFXBench",
+    "company": "CompuBench"
+  },
+  {
+    "name": "Termite",
+    "company": "Compuphase"
+  },
+  {
+    "name": "Utility",
+    "company": "Concept2"
+  },
+  {
+    "name": "Miniforge3",
+    "company": "CondaForge"
+  },
+  {
+    "name": "CDogsSDL",
+    "company": "CongusBongus"
+  },
+  {
+    "name": "ContasimpleDesktop",
+    "company": "Contasimple"
+  },
+  {
+    "name": "FutureRestore-GUI",
+    "company": "CoocooFroggy"
+  },
+  {
+    "name": "CopyTranslator",
+    "company": "CopyTranslator"
+  },
+  {
+    "name": "CoqPlatform",
+    "company": "Coq"
+  },
+  {
+    "name": "WinZip",
+    "company": "Corel"
+  },
+  {
+    "name": "ToontownCorporateClash",
+    "company": "CorporateClashCrew"
+  },
+  {
+    "name": "iCUE",
+    "company": "Corsair"
+  },
+  {
+    "name": "CorsixTH",
+    "company": "CorsixTH"
+  },
+  {
+    "name": "mcxstudio",
+    "company": "coti"
+  },
+  {
+    "name": "ServerCommunity",
+    "company": "Couchbase"
+  },
+  {
+    "name": "ServerEnterprise",
+    "company": "Couchbase"
+  },
+  {
+    "name": "jetAudio",
+    "company": "COWON"
+  },
+  {
+    "name": "CozyDrive",
+    "company": "CozyCloud"
+  },
+  {
+    "name": "Cppcheck",
+    "company": "Cppcheck"
+  },
+  {
+    "name": "CPU-Z",
+    "company": "CPUID"
+  },
+  {
+    "name": "HWMonitor",
+    "company": "CPUID"
+  },
+  {
+    "name": "powerMAX",
+    "company": "CPUID"
+  },
+  {
+    "name": "Crazybump",
+    "company": "Crazybump"
+  },
+  {
+    "name": "AppleMusicElectron",
+    "company": "cryptofyre"
+  },
+  {
+    "name": "Cryptomator",
+    "company": "Cryptomator"
+  },
+  {
+    "name": "CrystalDiskInfo",
+    "company": "CrystalDewWorld"
+  },
+  {
+    "name": "CrystalDiskInfoKureiKeiEdition",
+    "company": "CrystalDewWorld"
+  },
+  {
+    "name": "CrystalDiskInfoShizukuEdition",
+    "company": "CrystalDewWorld"
+  },
+  {
+    "name": "CrystalDiskMark",
+    "company": "CrystalDewWorld"
+  },
+  {
+    "name": "CrystalDiskMarkShizukuEdition",
+    "company": "CrystalDewWorld"
+  },
+  {
+    "name": "CrystalDiskMarkTsukumoTokka",
+    "company": "CrystalDewWorld"
+  },
+  {
+    "name": "AnyToISO",
+    "company": "CrystalIDEASoftware"
+  },
+  {
+    "name": "InternetOff",
+    "company": "CrystalRich"
+  },
+  {
+    "name": "LockHunter",
+    "company": "CrystalRich"
+  },
+  {
+    "name": "USBSafelyRemove",
+    "company": "CrystalRich"
+  },
+  {
+    "name": "Zentimo",
+    "company": "CrystalRich"
+  },
+  {
+    "name": "Meazure",
+    "company": "CThingSoftware"
+  },
+  {
+    "name": "CubicSDR",
+    "company": "CubicSDR"
+  },
+  {
+    "name": "quicker",
+    "company": "cuiliang"
+  },
+  {
+    "name": "GSAK",
+    "company": "CWEcomputerservices"
+  },
+  {
+    "name": "NAPS2",
+    "company": "Cyanfish"
+  },
+  {
+    "name": "ColorPaletteEditor",
+    "company": "Cyotek"
+  },
+  {
+    "name": "CopyTools",
+    "company": "Cyotek"
+  },
+  {
+    "name": "SitemapCreator",
+    "company": "Cyotek"
+  },
+  {
+    "name": "WebCopy",
+    "company": "Cyotek"
+  },
+  {
+    "name": "edgedeflector",
+    "company": "da2x"
+  },
+  {
+    "name": "AutoKeyboard",
+    "company": "DaanavSoftwares"
+  },
+  {
+    "name": "electron-screen-recorder",
+    "company": "daltonmenezes"
+  },
+  {
+    "name": "ModernDeck",
+    "company": "dangeredwolf"
+  },
+  {
+    "name": "darktable",
+    "company": "darktable"
+  },
+  {
+    "name": "Dashlane",
+    "company": "Dashlane"
+  },
+  {
+    "name": "DasKeyboard",
+    "company": "DasKeyboard"
+  },
+  {
+    "name": "Agent",
+    "company": "Datadog"
+  },
+  {
+    "name": "dd-trace-dotnet",
+    "company": "Datadog"
+  },
+  {
+    "name": "Seq",
+    "company": "Datalust"
+  },
+  {
+    "name": "SpacedeskDriver",
+    "company": "Datronicsoft"
+  },
+  {
+    "name": "PotPlayer",
+    "company": "Daum"
+  },
+  {
+    "name": "DaveGnukem",
+    "company": "DavidJoffe"
+  },
+  {
+    "name": "IPFilterUpdater",
+    "company": "DavidMoore"
+  },
+  {
+    "name": "Mine-imator",
+    "company": "DavidNorgren"
+  },
+  {
+    "name": "fs2020-livery-manager",
+    "company": "DavidWheatley"
+  },
+  {
+    "name": "DaxStudio",
+    "company": "DaxStudio"
+  },
+  {
+    "name": "DBBrowserForSQLite",
+    "company": "DBBrowserForSQLite"
+  },
+  {
+    "name": "dbeaver",
+    "company": "dbeaver"
+  },
+  {
+    "name": "DungeonCrawlStoneSoup",
+    "company": "DCSS"
+  },
+  {
+    "name": "Barrier",
+    "company": "DebaucheeOpenSourceGroup"
+  },
+  {
+    "name": "Debian",
+    "company": "Debian"
+  },
+  {
+    "name": "Deezer",
+    "company": "Deezer"
+  },
+  {
+    "name": "defi",
+    "company": "defi"
+  },
+  {
+    "name": "CommandUpdate",
+    "company": "Dell"
+  },
+  {
+    "name": "DellUpdate",
+    "company": "Dell"
+  },
+  {
+    "name": "Deluge",
+    "company": "DelugeTeam"
+  },
+  {
+    "name": "DelugeBeta",
+    "company": "DelugeTeam"
+  },
+  {
+    "name": "DroidCam",
+    "company": "dev47apps"
+  },
+  {
+    "name": "devkitPro",
+    "company": "devkitPro"
+  },
+  {
+    "name": "RemoteDesktopManager",
+    "company": "Devolutions"
+  },
+  {
+    "name": "RemoteDesktopManagerFree",
+    "company": "Devolutions"
+  },
+  {
+    "name": "WaykNow",
+    "company": "Devolutions"
+  },
+  {
+    "name": "DxEnterprise",
+    "company": "DH2iCompany"
+  },
+  {
+    "name": "Dialpad",
+    "company": "Dialpad"
+  },
+  {
+    "name": "the_center",
+    "company": "Dicarne"
+  },
+  {
+    "name": "dida",
+    "company": "dida"
+  },
+  {
+    "name": "iMazing",
+    "company": "DigiDNA"
+  },
+  {
+    "name": "Dopamine",
+    "company": "Digimezzo"
+  },
+  {
+    "name": "NitronicRush",
+    "company": "DigiPen"
+  },
+  {
+    "name": "MaxTo",
+    "company": "DigitalCreations"
+  },
+  {
+    "name": "DuplicateCleanerFree",
+    "company": "DigitalVolcanoSoftware"
+  },
+  {
+    "name": "DuplicateCleanerPro",
+    "company": "DigitalVolcanoSoftware"
+  },
+  {
+    "name": "WebProxy",
+    "company": "Diladele"
+  },
+  {
+    "name": "mobster",
+    "company": "dillonkearns"
+  },
+  {
+    "name": "Doxygen",
+    "company": "DimitriVanHeesch"
+  },
+  {
+    "name": "Discord",
+    "company": "Discord"
+  },
+  {
+    "name": "DiscordCanary",
+    "company": "Discord"
+  },
+  {
+    "name": "DiscordDevelopment",
+    "company": "Discord"
+  },
+  {
+    "name": "DiscordPTB",
+    "company": "Discord"
+  },
+  {
+    "name": "BlueGriffon",
+    "company": "DisruptiveInnovationsSAS"
+  },
+  {
+    "name": "Ditto",
+    "company": "Ditto"
+  },
+  {
+    "name": "Dixa",
+    "company": "Dixa"
+  },
+  {
+    "name": "DJIAssistant2ForAeroScope",
+    "company": "DJI"
+  },
+  {
+    "name": "DJIAssistant2ForAutoPilot",
+    "company": "DJI"
+  },
+  {
+    "name": "DJIAssistant2ForBatteryStation",
+    "company": "DJI"
+  },
+  {
+    "name": "DJIAssistant2ForMatrice",
+    "company": "DJI"
+  },
+  {
+    "name": "DJIAssistant2ForMavic",
+    "company": "DJI"
+  },
+  {
+    "name": "DJIAssistant2ForMG",
+    "company": "DJI"
+  },
+  {
+    "name": "DJIAssistant2ForPhantom",
+    "company": "DJI"
+  },
+  {
+    "name": "DJIAssistant2FPV",
+    "company": "DJI"
+  },
+  {
+    "name": "DjView",
+    "company": "DjVuLibre"
+  },
+  {
+    "name": "MicSwitch",
+    "company": "Dmitry-Farafonov"
+  },
+  {
+    "name": "GamePlayer",
+    "company": "DMM"
+  },
+  {
+    "name": "dnGrep",
+    "company": "dnGrep"
+  },
+  {
+    "name": "DockerDesktop",
+    "company": "Docker"
+  },
+  {
+    "name": "DockerDesktopEdge",
+    "company": "Docker"
+  },
+  {
+    "name": "DockStation",
+    "company": "DockStation"
+  },
+  {
+    "name": "DogecoinCore64",
+    "company": "Dogecoin"
+  },
+  {
+    "name": "Imaconverter",
+    "company": "Dogramming"
+  },
+  {
+    "name": "Todoist",
+    "company": "Doist"
+  },
+  {
+    "name": "Dokany",
+    "company": "dokan-dev"
+  },
+  {
+    "name": "DolphinEmu",
+    "company": "DolphinEmu"
+  },
+  {
+    "name": "Dolt",
+    "company": "DoltHub"
+  },
+  {
+    "name": "KeePass",
+    "company": "DominikReichl"
+  },
+  {
+    "name": "FindandRunRobot",
+    "company": "DonationCoder"
+  },
+  {
+    "name": "ScreenshotCaptor",
+    "company": "DonationCoder"
+  },
+  {
+    "name": "Doomsday",
+    "company": "Doomsday"
+  },
+  {
+    "name": "usbipd-win",
+    "company": "dorssel"
+  },
+  {
+    "name": "DOSBox",
+    "company": "DOSBox"
+  },
+  {
+    "name": "Doxie",
+    "company": "Doxie"
+  },
+  {
+    "name": "Drawpile",
+    "company": "Drawpile"
+  },
+  {
+    "name": "guinget",
+    "company": "DrewNaylor"
+  },
+  {
+    "name": "UXL-Launcher",
+    "company": "DrewNaylor"
+  },
+  {
+    "name": "Dropbox",
+    "company": "Dropbox"
+  },
+  {
+    "name": "ImageGlass",
+    "company": "DuongDieuPhap"
+  },
+  {
+    "name": "DupeGuru",
+    "company": "DupeGuru"
+  },
+  {
+    "name": "Duplicati",
+    "company": "Duplicati"
+  },
+  {
+    "name": "markright",
+    "company": "dvcrn"
+  },
+  {
+    "name": "EagleGet",
+    "company": "EagleGet"
+  },
+  {
+    "name": "DriverEasy",
+    "company": "Easeware"
+  },
+  {
+    "name": "DiskGenius",
+    "company": "Eassos"
+  },
+  {
+    "name": "EassosRecovery",
+    "company": "Eassos"
+  },
+  {
+    "name": "pCon",
+    "company": "EasternGraphics"
+  },
+  {
+    "name": "Ebbflow",
+    "company": "Ebbflow"
+  },
+  {
+    "name": "Mosquitto",
+    "company": "EclipseFoundation"
+  },
+  {
+    "name": "EduMIPS64",
+    "company": "EduMIPS64"
+  },
+  {
+    "name": "classin",
+    "company": "eeo"
+  },
+  {
+    "name": "Certbot",
+    "company": "EFF"
+  },
+  {
+    "name": "EgnyteDesktopApp",
+    "company": "Egnyte"
+  },
+  {
+    "name": "devdocs-desktop",
+    "company": "egoist"
+  },
+  {
+    "name": "VirtualCloneDrive",
+    "company": "ElaborateBytes"
+  },
+  {
+    "name": "Elasticsearch",
+    "company": "Elastic"
+  },
+  {
+    "name": "Winlogbeat",
+    "company": "Elastic"
+  },
+  {
+    "name": "electerm",
+    "company": "electerm"
+  },
+  {
+    "name": "ElectronCash",
+    "company": "ElectronCash"
+  },
+  {
+    "name": "ElectronFiddle",
+    "company": "ElectronCommunity"
+  },
+  {
+    "name": "EADesktop",
+    "company": "ElectronicArts"
+  },
+  {
+    "name": "Electrum",
+    "company": "Electrum"
+  },
+  {
+    "name": "Element",
+    "company": "Element"
+  },
+  {
+    "name": "4KCaptureUtility",
+    "company": "Elgato"
+  },
+  {
+    "name": "ElgatoGameCaptureHD",
+    "company": "Elgato"
+  },
+  {
+    "name": "EpocCam",
+    "company": "Elgato"
+  },
+  {
+    "name": "StreamDeck",
+    "company": "Elgato"
+  },
+  {
+    "name": "WaveLink",
+    "company": "Elgato"
+  },
+  {
+    "name": "DeskPins",
+    "company": "EliasFotinis"
+  },
+  {
+    "name": "TegraRcmGUI",
+    "company": "eliboa"
+  },
+  {
+    "name": "ungoogled-chromium",
+    "company": "eloston"
+  },
+  {
+    "name": "notehighlight2016",
+    "company": "elvirbrk"
+  },
+  {
+    "name": "eMClient",
+    "company": "eMClient"
+  },
+  {
+    "name": "RemoteMouse",
+    "company": "EmoteInteractive"
+  },
+  {
+    "name": "Empoche",
+    "company": "Empoche"
+  },
+  {
+    "name": "mqttx",
+    "company": "emqx"
+  },
+  {
+    "name": "eMule",
+    "company": "eMuleProject"
+  },
+  {
+    "name": "EpicGamesLauncher",
+    "company": "EpicGames"
+  },
+  {
+    "name": "Grindstone",
+    "company": "Epiforge"
+  },
+  {
+    "name": "Colobot",
+    "company": "Epsitec"
+  },
+  {
+    "name": "PlanetBlupi",
+    "company": "Epsitec"
+  },
+  {
+    "name": "Eraser",
+    "company": "Eraser"
+  },
+  {
+    "name": "Taiga",
+    "company": "erengy"
+  },
+  {
+    "name": "EditPlus",
+    "company": "ES-Computing"
+  },
+  {
+    "name": "ESETEndpointAntivirus",
+    "company": "ESET"
+  },
+  {
+    "name": "ESETEndpointSecurity",
+    "company": "ESET"
+  },
+  {
+    "name": "espeak",
+    "company": "espeak"
+  },
+  {
+    "name": "Esteem",
+    "company": "Esteem"
+  },
+  {
+    "name": "SendAnywhere",
+    "company": "Estmob"
+  },
+  {
+    "name": "geth",
+    "company": "Ethereum"
+  },
+  {
+    "name": "grid",
+    "company": "Ethereum"
+  },
+  {
+    "name": "EtternaGame",
+    "company": "EtternaProject"
+  },
+  {
+    "name": "Terminus",
+    "company": "Eugeny"
+  },
+  {
+    "name": "HideMe",
+    "company": "eVenture"
+  },
+  {
+    "name": "evernote",
+    "company": "evernote"
+  },
+  {
+    "name": "yinxiang",
+    "company": "evernote"
+  },
+  {
+    "name": "EVGAPrecisionX1",
+    "company": "EVGACorporation"
+  },
+  {
+    "name": "EvoluentMouseManager",
+    "company": "Evoluent"
+  },
+  {
+    "name": "Pencil",
+    "company": "Evolus"
+  },
+  {
+    "name": "ExpressVPN",
+    "company": "ExpressVPN"
+  },
+  {
+    "name": "PDFreDirect",
+    "company": "EXPSystems"
+  },
+  {
+    "name": "officetab",
+    "company": "extendoffice"
+  },
+  {
+    "name": "officetabenterprise",
+    "company": "extendoffice"
+  },
+  {
+    "name": "ExtremeTuxRacer",
+    "company": "ExtremeTuxRacer"
+  },
+  {
+    "name": "UltraISO",
+    "company": "EZBSystems"
+  },
+  {
+    "name": "DotNetReactor",
+    "company": "Eziriz"
+  },
+  {
+    "name": "Freedome",
+    "company": "F-Secure"
+  },
+  {
+    "name": "noty",
+    "company": "fabiospampinato"
+  },
+  {
+    "name": "FACEITAC",
+    "company": "FACEITLTD"
+  },
+  {
+    "name": "FACEITClient",
+    "company": "FACEITLTD"
+  },
+  {
+    "name": "udeler",
+    "company": "faisalumair"
+  },
+  {
+    "name": "AdvancedIPScanner",
+    "company": "Famatech"
+  },
+  {
+    "name": "AdvancedPortScanner",
+    "company": "Famatech"
+  },
+  {
+    "name": "FarManager",
+    "company": "FarManager"
+  },
+  {
+    "name": "FastCopy",
+    "company": "FastCopy"
+  },
+  {
+    "name": "Capture",
+    "company": "FastStone"
+  },
+  {
+    "name": "Viewer",
+    "company": "FastStone"
+  },
+  {
+    "name": "Launcher",
+    "company": "FBMods"
+  },
+  {
+    "name": "FedoraMediaWriter",
+    "company": "Fedora"
+  },
+  {
+    "name": "FenoPhoto",
+    "company": "FenoPhoto"
+  },
+  {
+    "name": "Mypal",
+    "company": "Feodor2"
+  },
+  {
+    "name": "Figma",
+    "company": "Figma"
+  },
+  {
+    "name": "fonthelper",
+    "company": "Figma"
+  },
+  {
+    "name": "EarTrumpet",
+    "company": "File-New-Project"
+  },
+  {
+    "name": "FileConverter",
+    "company": "FileConverter"
+  },
+  {
+    "name": "Files",
+    "company": "Files-Community"
+  },
+  {
+    "name": "AIDA64Engineer",
+    "company": "FinalWire"
+  },
+  {
+    "name": "AIDA64Extreme",
+    "company": "FinalWire"
+  },
+  {
+    "name": "MetroCommander",
+    "company": "Finebits"
+  },
+  {
+    "name": "Torrex",
+    "company": "Finebits"
+  },
+  {
+    "name": "MailWasherFree",
+    "company": "Firetrust"
+  },
+  {
+    "name": "MailWasherPro",
+    "company": "Firetrust"
+  },
+  {
+    "name": "MyPhoneExplorer",
+    "company": "fjsoft"
+  },
+  {
+    "name": "DiscordBotClient",
+    "company": "Flam3rboy"
+  },
+  {
+    "name": "Flameshot",
+    "company": "Flameshot"
+  },
+  {
+    "name": "GloSC",
+    "company": "FlatspotSoftware"
+  },
+  {
+    "name": "FlightGear",
+    "company": "FlightGear"
+  },
+  {
+    "name": "DisplayCAL",
+    "company": "FlorianH\u00f6ch"
+  },
+  {
+    "name": "Flow-Launcher",
+    "company": "Flow-Launcher"
+  },
+  {
+    "name": "flux",
+    "company": "flux"
+  },
+  {
+    "name": "FlyByWireSimulationsInstaller",
+    "company": "FlyByWireSimulations"
+  },
+  {
+    "name": "ClashForWindows",
+    "company": "Fndroid"
+  },
+  {
+    "name": "FoldingAtHome",
+    "company": "FoldingAtHome"
+  },
+  {
+    "name": "FontForge",
+    "company": "FontForge"
+  },
+  {
+    "name": "NoteTabLight",
+    "company": "FookesHolding"
+  },
+  {
+    "name": "Fork",
+    "company": "Fork"
+  },
+  {
+    "name": "Airtable",
+    "company": "Formagrid"
+  },
+  {
+    "name": "fotor",
+    "company": "fotor"
+  },
+  {
+    "name": "Mailspring",
+    "company": "Foundry376"
+  },
+  {
+    "name": "FoxitReader",
+    "company": "Foxit"
+  },
+  {
+    "name": "PhantomPDF",
+    "company": "Foxit"
+  },
+  {
+    "name": "paste-into-file",
+    "company": "FrancescoSorge"
+  },
+  {
+    "name": "WinPower",
+    "company": "FrancescoSorge"
+  },
+  {
+    "name": "FreeCAD",
+    "company": "FreeCAD"
+  },
+  {
+    "name": "FreeCiv",
+    "company": "FreeCiv"
+  },
+  {
+    "name": "FreeMat",
+    "company": "FreeMat"
+  },
+  {
+    "name": "FreePascalCompiler",
+    "company": "FreePascal"
+  },
+  {
+    "name": "Freeplane",
+    "company": "Freeplane"
+  },
+  {
+    "name": "FormatFactory",
+    "company": "FreeTime"
+  },
+  {
+    "name": "VoiceMacro-Stable",
+    "company": "FSC-SOFT"
+  },
+  {
+    "name": "HitFilmExpress",
+    "company": "FXHOME"
+  },
+  {
+    "name": "pomodoro",
+    "company": "g07cha"
+  },
+  {
+    "name": "WarThunder",
+    "company": "GaijinNetwork"
+  },
+  {
+    "name": "Gamecaster",
+    "company": "Gamecaster"
+  },
+  {
+    "name": "GanttProject",
+    "company": "GanttProject"
+  },
+  {
+    "name": "Garena",
+    "company": "Garena"
+  },
+  {
+    "name": "gmvault",
+    "company": "gaubert"
+  },
+  {
+    "name": "Gauge",
+    "company": "Gauge"
+  },
+  {
+    "name": "TypeRefHasher",
+    "company": "GDATA"
+  },
+  {
+    "name": "GDevelop",
+    "company": "GDevelop"
+  },
+  {
+    "name": "Geany",
+    "company": "Geany"
+  },
+  {
+    "name": "PDF24Creator",
+    "company": "geeksoftwareGmbH"
+  },
+  {
+    "name": "Dart",
+    "company": "Gekorm"
+  },
+  {
+    "name": "gmt",
+    "company": "GenericMappingTools"
+  },
+  {
+    "name": "GeoGebraCASCalculator",
+    "company": "GeoGebra"
+  },
+  {
+    "name": "GeoGebraClassic",
+    "company": "GeoGebra"
+  },
+  {
+    "name": "Geometry",
+    "company": "GeoGebra"
+  },
+  {
+    "name": "GraphingCalculator",
+    "company": "GeoGebra"
+  },
+  {
+    "name": "Gephi",
+    "company": "Gephi"
+  },
+  {
+    "name": "gsudo",
+    "company": "gerardog"
+  },
+  {
+    "name": "euroscope",
+    "company": "gergelycsernak"
+  },
+  {
+    "name": "getdata",
+    "company": "getdata"
+  },
+  {
+    "name": "gridea",
+    "company": "getgridea"
+  },
+  {
+    "name": "TotalCommander",
+    "company": "Ghisler"
+  },
+  {
+    "name": "GSview",
+    "company": "Ghostgum"
+  },
+  {
+    "name": "Caption",
+    "company": "GielCobben"
+  },
+  {
+    "name": "AORUSENGINE",
+    "company": "GIGABYTE"
+  },
+  {
+    "name": "windowtop",
+    "company": "gileli121"
+  },
+  {
+    "name": "GIMP",
+    "company": "GIMP"
+  },
+  {
+    "name": "Peazip",
+    "company": "Giorgiotani"
+  },
+  {
+    "name": "Git",
+    "company": "Git"
+  },
+  {
+    "name": "GitReleaseCandidate",
+    "company": "Git"
+  },
+  {
+    "name": "GitAhead",
+    "company": "GitAhead"
+  },
+  {
+    "name": "GitExtensions",
+    "company": "GitExtensionsTeam"
+  },
+  {
+    "name": "Atom",
+    "company": "GitHub"
+  },
+  {
+    "name": "cli",
+    "company": "GitHub"
+  },
+  {
+    "name": "GitHubDesktop",
+    "company": "GitHub"
+  },
+  {
+    "name": "GitHubDesktopBeta",
+    "company": "GitHub"
+  },
+  {
+    "name": "GitLFS",
+    "company": "GitHub"
+  },
+  {
+    "name": "Gitter",
+    "company": "Gitlab"
+  },
+  {
+    "name": "edex-ui",
+    "company": "GitSquared"
+  },
+  {
+    "name": "Cherrytree",
+    "company": "Giuspen"
+  },
+  {
+    "name": "GLab",
+    "company": "GLab"
+  },
+  {
+    "name": "GlaryUtilities",
+    "company": "Glarysoft"
+  },
+  {
+    "name": "GlasswallDesktop",
+    "company": "Glasswall"
+  },
+  {
+    "name": "GlassWire",
+    "company": "GlassWire"
+  },
+  {
+    "name": "GlassWireLite",
+    "company": "GlassWire"
+  },
+  {
+    "name": "TightVNC",
+    "company": "GlavSoft"
+  },
+  {
+    "name": "Glimpse",
+    "company": "Glimpse"
+  },
+  {
+    "name": "SceneBuilder",
+    "company": "Gluon"
+  },
+  {
+    "name": "DualMonitorTools",
+    "company": "GNE"
+  },
+  {
+    "name": "Dia",
+    "company": "gnome"
+  },
+  {
+    "name": "gedit",
+    "company": "gnome"
+  },
+  {
+    "name": "Emacs",
+    "company": "GNU"
+  },
+  {
+    "name": "Gforth",
+    "company": "GNU"
+  },
+  {
+    "name": "MidnightCommander",
+    "company": "GNU"
+  },
+  {
+    "name": "Octave",
+    "company": "GNU"
+  },
+  {
+    "name": "Solfege",
+    "company": "GNU"
+  },
+  {
+    "name": "GnuCash",
+    "company": "GnuCash"
+  },
+  {
+    "name": "GnuPG",
+    "company": "GnuPG"
+  },
+  {
+    "name": "Gpg4win",
+    "company": "GnuPG"
+  },
+  {
+    "name": "gnuplot",
+    "company": "gnuplot"
+  },
+  {
+    "name": "GNURadio",
+    "company": "GNURadio"
+  },
+  {
+    "name": "Grep",
+    "company": "GnuWin32"
+  },
+  {
+    "name": "Make",
+    "company": "GnuWin32"
+  },
+  {
+    "name": "Wget",
+    "company": "GnuWin32"
+  },
+  {
+    "name": "Zip",
+    "company": "GnuWin32"
+  },
+  {
+    "name": "Agent",
+    "company": "GoCD"
+  },
+  {
+    "name": "Server",
+    "company": "GoCD"
+  },
+  {
+    "name": "Galaxy",
+    "company": "GOG"
+  },
+  {
+    "name": "Go",
+    "company": "GoLang"
+  },
+  {
+    "name": "Go-Unstable",
+    "company": "GoLang"
+  },
+  {
+    "name": "GoldenDict",
+    "company": "GoldenDict"
+  },
+  {
+    "name": "GoldWave",
+    "company": "GoldWave"
+  },
+  {
+    "name": "VideoMeld",
+    "company": "GoldWave"
+  },
+  {
+    "name": "GOMPlayer",
+    "company": "GOMLab"
+  },
+  {
+    "name": "AndroidStudio",
+    "company": "Google"
+  },
+  {
+    "name": "BackupAndSync",
+    "company": "Google"
+  },
+  {
+    "name": "Chrome",
+    "company": "Google"
+  },
+  {
+    "name": "ChromeBeta",
+    "company": "Google"
+  },
+  {
+    "name": "ChromeCanary",
+    "company": "Google"
+  },
+  {
+    "name": "ChromeDev",
+    "company": "Google"
+  },
+  {
+    "name": "ChromeEnterprise",
+    "company": "Google"
+  },
+  {
+    "name": "CloudSDK",
+    "company": "Google"
+  },
+  {
+    "name": "DriveFileStream",
+    "company": "Google"
+  },
+  {
+    "name": "EarthPro",
+    "company": "Google"
+  },
+  {
+    "name": "IAPDesktop",
+    "company": "Google"
+  },
+  {
+    "name": "GDLauncher",
+    "company": "GorillaDevs"
+  },
+  {
+    "name": "focuswriter",
+    "company": "gottcode"
+  },
+  {
+    "name": "Ausweisapp2",
+    "company": "Governikus"
+  },
+  {
+    "name": "DirectoryOpus",
+    "company": "GPSoftware"
+  },
+  {
+    "name": "GrafanaEnterprise",
+    "company": "GrafanaLabs"
+  },
+  {
+    "name": "GrafanaOSS",
+    "company": "GrafanaLabs"
+  },
+  {
+    "name": "grammarlyforoffice",
+    "company": "grammarly"
+  },
+  {
+    "name": "GrammarlyForWindows",
+    "company": "grammarly"
+  },
+  {
+    "name": "Gramps",
+    "company": "Gramps"
+  },
+  {
+    "name": "GraphQLPlayground",
+    "company": "Graphcool"
+  },
+  {
+    "name": "Graphviz",
+    "company": "Graphviz"
+  },
+  {
+    "name": "Greenfoot",
+    "company": "GreenfootTeam"
+  },
+  {
+    "name": "Greenshot",
+    "company": "Greenshot"
+  },
+  {
+    "name": "Client",
+    "company": "Gridcoin"
+  },
+  {
+    "name": "Guarda",
+    "company": "GuardarianOU"
+  },
+  {
+    "name": "ZXPInstaller",
+    "company": "guideguide"
+  },
+  {
+    "name": "Guilded",
+    "company": "Guilded"
+  },
+  {
+    "name": "MakeMKV",
+    "company": "GuinpinSoft"
+  },
+  {
+    "name": "HashCheckShellExtension",
+    "company": "gurnec"
+  },
+  {
+    "name": "JoystickGremlin",
+    "company": "H2IK"
+  },
+  {
+    "name": "whalebird-desktop",
+    "company": "h3poteto"
+  },
+  {
+    "name": "HakuNeko",
+    "company": "HakuNeko"
+  },
+  {
+    "name": "BobTheHamsterVGA",
+    "company": "HamsterRepublic"
+  },
+  {
+    "name": "OHRRPGCE",
+    "company": "HamsterRepublic"
+  },
+  {
+    "name": "HandBrake",
+    "company": "HandBrake"
+  },
+  {
+    "name": "HandyWinget-GUI",
+    "company": "HandyOrg"
+  },
+  {
+    "name": "Vagrant",
+    "company": "Hashicorp"
+  },
+  {
+    "name": "Haxe",
+    "company": "HaxeFoundation"
+  },
+  {
+    "name": "Headset",
+    "company": "Headsetapp"
+  },
+  {
+    "name": "HearthstoneDeckTracker",
+    "company": "HearthSim"
+  },
+  {
+    "name": "Hedgewars",
+    "company": "Hedgewars"
+  },
+  {
+    "name": "HeidiSQL",
+    "company": "HeidiSQL"
+  },
+  {
+    "name": "HelioWorkstation",
+    "company": "Helio"
+  },
+  {
+    "name": "raven-reader",
+    "company": "hello-efficiency-inc"
+  },
+  {
+    "name": "Nagstamon",
+    "company": "HenriWahl"
+  },
+  {
+    "name": "simplewall",
+    "company": "Henry++"
+  },
+  {
+    "name": "LinkShellExtension",
+    "company": "HermannSchinagl"
+  },
+  {
+    "name": "HerokuCLI",
+    "company": "Heroku"
+  },
+  {
+    "name": "HexChat",
+    "company": "HexChat"
+  },
+  {
+    "name": "IDA-Freeware",
+    "company": "HexRays"
+  },
+  {
+    "name": "FreeHexEditorNeo",
+    "company": "HHDSoftware"
+  },
+  {
+    "name": "HiBitUninstaller",
+    "company": "HiBitSoftware"
+  },
+  {
+    "name": "EpicBrowser",
+    "company": "HiddenReflex"
+  },
+  {
+    "name": "ActiveSkyP3D",
+    "company": "HiFiSimulationTechnologies"
+  },
+  {
+    "name": "ActiveSkyXP",
+    "company": "HiFiSimulationTechnologies"
+  },
+  {
+    "name": "SciDAVis",
+    "company": "HighPerformanceCoders"
+  },
+  {
+    "name": "X-MouseButtonControl",
+    "company": "Hiresolution"
+  },
+  {
+    "name": "NotebookFanControl",
+    "company": "Hirschmann"
+  },
+  {
+    "name": "HMNISEdit",
+    "company": "HMSoft"
+  },
+  {
+    "name": "Honeygain",
+    "company": "Honeygain"
+  },
+  {
+    "name": "HPCloudRecoveryTool",
+    "company": "HP"
+  },
+  {
+    "name": "SamsungEasyDocumentCreator",
+    "company": "HPPrintingKorea"
+  },
+  {
+    "name": "manta",
+    "company": "hql287"
+  },
+  {
+    "name": "Crypter",
+    "company": "HR"
+  },
+  {
+    "name": "HTTPToolKit",
+    "company": "HTTPToolKit"
+  },
+  {
+    "name": "appgallery",
+    "company": "Huawei"
+  },
+  {
+    "name": "browser",
+    "company": "Huawei"
+  },
+  {
+    "name": "hisuite",
+    "company": "Huawei"
+  },
+  {
+    "name": "IdeaShare",
+    "company": "Huawei"
+  },
+  {
+    "name": "mobilecloud",
+    "company": "Huawei"
+  },
+  {
+    "name": "QuickAppIde",
+    "company": "Huawei"
+  },
+  {
+    "name": "Welink",
+    "company": "Huawei"
+  },
+  {
+    "name": "Hugin",
+    "company": "Hugin"
+  },
+  {
+    "name": "AdvancedRenamer",
+    "company": "HulubuluSoftware"
+  },
+  {
+    "name": "TimberDesign",
+    "company": "Hyne"
+  },
+  {
+    "name": "HyperspaceDesktop",
+    "company": "HyperspaceDev"
+  },
+  {
+    "name": "Writer",
+    "company": "iA"
+  },
+  {
+    "name": "HelpNDoc",
+    "company": "IBESoftware"
+  },
+  {
+    "name": "Lunacy",
+    "company": "Icons8"
+  },
+  {
+    "name": "FLStudio",
+    "company": "ImageLine"
+  },
+  {
+    "name": "ImageMagick",
+    "company": "ImageMagick"
+  },
+  {
+    "name": "HashTab",
+    "company": "Implbits"
+  },
+  {
+    "name": "KoduGameLab",
+    "company": "InfiniteInstant"
+  },
+  {
+    "name": "Pingus",
+    "company": "IngoRuhnke"
+  },
+  {
+    "name": "Proxifier",
+    "company": "Initex"
+  },
+  {
+    "name": "YogaDNS",
+    "company": "Initex"
+  },
+  {
+    "name": "Inkscape",
+    "company": "Inkscape"
+  },
+  {
+    "name": "inPixioPhotoStudio",
+    "company": "inPixio"
+  },
+  {
+    "name": "Nmap",
+    "company": "Insecure"
+  },
+  {
+    "name": "Insomnia",
+    "company": "Insomnia"
+  },
+  {
+    "name": "InsomniaDesigner",
+    "company": "Insomnia"
+  },
+  {
+    "name": "Insync",
+    "company": "Insynchq"
+  },
+  {
+    "name": "IntelDriverAndSupportAssistant",
+    "company": "Intel"
+  },
+  {
+    "name": "Iometer",
+    "company": "Intel"
+  },
+  {
+    "name": "LoopEmail",
+    "company": "InTheLoop"
+  },
+  {
+    "name": "pyaudio",
+    "company": "intxcc"
+  },
+  {
+    "name": "AdvancedSystemCare",
+    "company": "IObit"
+  },
+  {
+    "name": "DriverBooster8",
+    "company": "IObit"
+  },
+  {
+    "name": "iFunScreenRecorder",
+    "company": "IObit"
+  },
+  {
+    "name": "iFunScreenshot",
+    "company": "IObit"
+  },
+  {
+    "name": "IObitSoftwareUpdater",
+    "company": "IObit"
+  },
+  {
+    "name": "IObitSysInfo",
+    "company": "IObit"
+  },
+  {
+    "name": "MalwareFighter",
+    "company": "IObit"
+  },
+  {
+    "name": "ProtectedFolder",
+    "company": "IObit"
+  },
+  {
+    "name": "Uninstaller",
+    "company": "IObit"
+  },
+  {
+    "name": "Sideloady",
+    "company": "iOSGods"
+  },
+  {
+    "name": "IPFS-Desktop",
+    "company": "IPFS"
+  },
+  {
+    "name": "IRCCloud",
+    "company": "IRCCloud"
+  },
+  {
+    "name": "IrfanView",
+    "company": "IrfanSkiljan"
+  },
+  {
+    "name": "IriunWebcam",
+    "company": "Iriun"
+  },
+  {
+    "name": "PowerShellUniversal",
+    "company": "IronmanSoftware"
+  },
+  {
+    "name": "presencelight",
+    "company": "isaaclevin"
+  },
+  {
+    "name": "IsWiX",
+    "company": "IsWiX"
+  },
+  {
+    "name": "Cyberduck",
+    "company": "Iterate"
+  },
+  {
+    "name": "fsolauncher",
+    "company": "ItsSim"
+  },
+  {
+    "name": "IZArc",
+    "company": "IZArc"
+  },
+  {
+    "name": "Direct",
+    "company": "Jabra"
+  },
+  {
+    "name": "JabRef",
+    "company": "JabRef"
+  },
+  {
+    "name": "Jackett",
+    "company": "Jackett"
+  },
+  {
+    "name": "NotepadsApp",
+    "company": "JackieLiu"
+  },
+  {
+    "name": "OldSchoolRunescape",
+    "company": "Jagex"
+  },
+  {
+    "name": "james",
+    "company": "james"
+  },
+  {
+    "name": "qws",
+    "company": "jamesbowden"
+  },
+  {
+    "name": "SPIM",
+    "company": "JamesLarus"
+  },
+  {
+    "name": "MIDI-OX",
+    "company": "JamieOConnell"
+  },
+  {
+    "name": "CacheMonkey",
+    "company": "JamiePine"
+  },
+  {
+    "name": "HeavyLoad",
+    "company": "JAMSoftware"
+  },
+  {
+    "name": "TreeSize",
+    "company": "JAMSoftware"
+  },
+  {
+    "name": "TreeSizeFree",
+    "company": "JAMSoftware"
+  },
+  {
+    "name": "Ultrasearch",
+    "company": "JAMSoftware"
+  },
+  {
+    "name": "OhMyPosh",
+    "company": "JanDeDobbeleer"
+  },
+  {
+    "name": "PSpad",
+    "company": "JanFiala"
+  },
+  {
+    "name": "Blockbench",
+    "company": "JannisX11"
+  },
+  {
+    "name": "NBTExplorer",
+    "company": "Jaquadro"
+  },
+  {
+    "name": "MozBackup",
+    "company": "JasnaPaka"
+  },
+  {
+    "name": "nvs",
+    "company": "jasongin"
+  },
+  {
+    "name": "ColorCop",
+    "company": "JayPrall"
+  },
+  {
+    "name": "autoflac",
+    "company": "jbreland"
+  },
+  {
+    "name": "uniextract",
+    "company": "jbreland"
+  },
+  {
+    "name": "Jellyfin",
+    "company": "Jellyfin"
+  },
+  {
+    "name": "youtube-dl-gui",
+    "company": "jely2002"
+  },
+  {
+    "name": "CLion",
+    "company": "JetBrains"
+  },
+  {
+    "name": "DataGrip",
+    "company": "JetBrains"
+  },
+  {
+    "name": "dotUltimate",
+    "company": "JetBrains"
+  },
+  {
+    "name": "GoLand",
+    "company": "JetBrains"
+  },
+  {
+    "name": "IntelliJIDEA",
+    "company": "JetBrains"
+  },
+  {
+    "name": "MPS",
+    "company": "JetBrains"
+  },
+  {
+    "name": "PHPStorm",
+    "company": "JetBrains"
+  },
+  {
+    "name": "PyCharm",
+    "company": "JetBrains"
+  },
+  {
+    "name": "ReSharper",
+    "company": "JetBrains"
+  },
+  {
+    "name": "Rider",
+    "company": "JetBrains"
+  },
+  {
+    "name": "RubyMine",
+    "company": "JetBrains"
+  },
+  {
+    "name": "TeamCity",
+    "company": "JetBrains"
+  },
+  {
+    "name": "Toolbox",
+    "company": "JetBrains"
+  },
+  {
+    "name": "WebStorm",
+    "company": "JetBrains"
+  },
+  {
+    "name": "YouTrack",
+    "company": "JetBrains"
+  },
+  {
+    "name": "Ag",
+    "company": "JFLarvoire"
+  },
+  {
+    "name": "Conan",
+    "company": "JFrog"
+  },
+  {
+    "name": "Draw",
+    "company": "JGraph"
+  },
+  {
+    "name": "electronic-gmail",
+    "company": "jie17"
+  },
+  {
+    "name": "v2ray-electron",
+    "company": "jie17"
+  },
+  {
+    "name": "OutlineManager",
+    "company": "Jigsaw"
+  },
+  {
+    "name": "Meet",
+    "company": "Jitsi"
+  },
+  {
+    "name": "roPresence",
+    "company": "JiveOff"
+  },
+  {
+    "name": "KDiff3",
+    "company": "JoachimEibl"
+  },
+  {
+    "name": "joe",
+    "company": "joe"
+  },
+  {
+    "name": "Pandoc",
+    "company": "JohnMacFarlane"
+  },
+  {
+    "name": "DOSBox-X",
+    "company": "joncampbell123"
+  },
+  {
+    "name": "Joplin",
+    "company": "Joplin"
+  },
+  {
+    "name": "InnoSetup",
+    "company": "JRSoftware"
+  },
+  {
+    "name": "Appium",
+    "company": "JSFoundation"
+  },
+  {
+    "name": "tednotepad",
+    "company": "jsimlo"
+  },
+  {
+    "name": "Wawi",
+    "company": "JTL"
+  },
+  {
+    "name": "Julia",
+    "company": "Julialang"
+  },
+  {
+    "name": "k6",
+    "company": "k6"
+  },
+  {
+    "name": "KeyStoreExplorer",
+    "company": "KaiKramer"
+  },
+  {
+    "name": "KakaoTalk",
+    "company": "Kakao"
+  },
+  {
+    "name": "kalilinux",
+    "company": "kalilinux"
+  },
+  {
+    "name": "pennywise",
+    "company": "kamranahmedse"
+  },
+  {
+    "name": "TinyVid",
+    "company": "Kamua"
+  },
+  {
+    "name": "OpenWebStart",
+    "company": "karakun"
+  },
+  {
+    "name": "KarensReplicator",
+    "company": "KarenWare"
+  },
+  {
+    "name": "SecurityCloud",
+    "company": "Kaspersky"
+  },
+  {
+    "name": "KCSoftwaresDUMo",
+    "company": "KCSoftwares"
+  },
+  {
+    "name": "SUMo",
+    "company": "KCSoftwares"
+  },
+  {
+    "name": "digikam",
+    "company": "KDE"
+  },
+  {
+    "name": "Falkon",
+    "company": "KDE"
+  },
+  {
+    "name": "Kate",
+    "company": "KDE"
+  },
+  {
+    "name": "KDEConnect",
+    "company": "KDE"
+  },
+  {
+    "name": "Kdenlive",
+    "company": "KDE"
+  },
+  {
+    "name": "kdevelop",
+    "company": "KDE"
+  },
+  {
+    "name": "KDiff3",
+    "company": "KDE"
+  },
+  {
+    "name": "kexi",
+    "company": "KDE"
+  },
+  {
+    "name": "kile",
+    "company": "KDE"
+  },
+  {
+    "name": "kmymoney",
+    "company": "KDE"
+  },
+  {
+    "name": "Krita",
+    "company": "KDE"
+  },
+  {
+    "name": "KritaShellExtension",
+    "company": "KDE"
+  },
+  {
+    "name": "kstars",
+    "company": "KDE"
+  },
+  {
+    "name": "LabPlot",
+    "company": "KDE"
+  },
+  {
+    "name": "Marble",
+    "company": "KDE"
+  },
+  {
+    "name": "rkward",
+    "company": "KDE"
+  },
+  {
+    "name": "umbrello",
+    "company": "KDE"
+  },
+  {
+    "name": "Kebler",
+    "company": "Kebler"
+  },
+  {
+    "name": "KeePassXC",
+    "company": "KeePassXCTeam"
+  },
+  {
+    "name": "KeeWeb",
+    "company": "KeeWeb"
+  },
+  {
+    "name": "Keybase",
+    "company": "Keybase"
+  },
+  {
+    "name": "VulkanSDK",
+    "company": "KhronosGroup"
+  },
+  {
+    "name": "KiCad",
+    "company": "KiCad"
+  },
+  {
+    "name": "KiCadLite",
+    "company": "KiCad"
+  },
+  {
+    "name": "fromscratch",
+    "company": "kilian"
+  },
+  {
+    "name": "kdocs",
+    "company": "kingsoft"
+  },
+  {
+    "name": "kite",
+    "company": "kite"
+  },
+  {
+    "name": "CMake",
+    "company": "Kitware"
+  },
+  {
+    "name": "KiwixJS",
+    "company": "Kiwix"
+  },
+  {
+    "name": "WikiMed",
+    "company": "Kiwix"
+  },
+  {
+    "name": "Wikivoyage",
+    "company": "Kiwix"
+  },
+  {
+    "name": "KKBOX",
+    "company": "KKBOX"
+  },
+  {
+    "name": "ao",
+    "company": "klaussinani"
+  },
+  {
+    "name": "tusk",
+    "company": "klaussinani"
+  },
+  {
+    "name": "BulkCrapUninstaller",
+    "company": "Klocman"
+  },
+  {
+    "name": "K-Meleon",
+    "company": "kmeleonbrowser"
+  },
+  {
+    "name": "Kobo",
+    "company": "Kobo"
+  },
+  {
+    "name": "Krisp",
+    "company": "Krisp"
+  },
+  {
+    "name": "ksnip",
+    "company": "ksnip"
+  },
+  {
+    "name": "minikube",
+    "company": "Kubernetes"
+  },
+  {
+    "name": "Mery",
+    "company": "Kuro"
+  },
+  {
+    "name": "MeryBeta",
+    "company": "Kuro"
+  },
+  {
+    "name": "MediaFileManager",
+    "company": "LancelotSoftware"
+  },
+  {
+    "name": "LastFMDesktopScrobbler",
+    "company": "LastFM"
+  },
+  {
+    "name": "launch4j",
+    "company": "launch4j"
+  },
+  {
+    "name": "pandoc-plot",
+    "company": "LaurentPRenedeCotret"
+  },
+  {
+    "name": "Lazarus",
+    "company": "Lazarus"
+  },
+  {
+    "name": "LazesoftRecovery",
+    "company": "Lazesoft"
+  },
+  {
+    "name": "LBRY",
+    "company": "LBRY"
+  },
+  {
+    "name": "LedgerLive",
+    "company": "LedgerHQ"
+  },
+  {
+    "name": "fr\u00c9ditions",
+    "company": "Lelivrescolaire"
+  },
+  {
+    "name": "Laragon",
+    "company": "LeNgocKhoa"
+  },
+  {
+    "name": "LegionAccessoryCentral",
+    "company": "Lenovo"
+  },
+  {
+    "name": "MigrationAssistant",
+    "company": "Lenovo"
+  },
+  {
+    "name": "SystemUpdate",
+    "company": "Lenovo"
+  },
+  {
+    "name": "LeoCAD",
+    "company": "LeonardoZide"
+  },
+  {
+    "name": "Leonflix",
+    "company": "Leonflix"
+  },
+  {
+    "name": "filius",
+    "company": "lernsoftware"
+  },
+  {
+    "name": "FontBase",
+    "company": "Levitsky"
+  },
+  {
+    "name": "Authme",
+    "company": "Levminer"
+  },
+  {
+    "name": "AutoHotkey",
+    "company": "Lexikos"
+  },
+  {
+    "name": "LibreCAD",
+    "company": "LibreCAD"
+  },
+  {
+    "name": "LibreOffice",
+    "company": "LibreOffice"
+  },
+  {
+    "name": "LibreOffice-PreReleases",
+    "company": "LibreOffice"
+  },
+  {
+    "name": "RetroArch",
+    "company": "Libretro"
+  },
+  {
+    "name": "Librevault",
+    "company": "LibrevaultTeam"
+  },
+  {
+    "name": "LibreWolf",
+    "company": "LibreWolf"
+  },
+  {
+    "name": "LightformCreator",
+    "company": "Lightform"
+  },
+  {
+    "name": "Lightkey",
+    "company": "LightkeySources"
+  },
+  {
+    "name": "ImgBurn",
+    "company": "LIGHTNINGUK"
+  },
+  {
+    "name": "lightspark",
+    "company": "lightspark"
+  },
+  {
+    "name": "LilyPond",
+    "company": "LilyPond"
+  },
+  {
+    "name": "LINE",
+    "company": "LINE"
+  },
+  {
+    "name": "LINQPad5",
+    "company": "LINQPad"
+  },
+  {
+    "name": "LINQPad6",
+    "company": "LINQPad"
+  },
+  {
+    "name": "liribrowser",
+    "company": "liri"
+  },
+  {
+    "name": "LiskHub",
+    "company": "LiskFoundation"
+  },
+  {
+    "name": "listen1",
+    "company": "listen1"
+  },
+  {
+    "name": "listen1_fluent",
+    "company": "listen1"
+  },
+  {
+    "name": "LLVM",
+    "company": "LLVM"
+  },
+  {
+    "name": "LMMS",
+    "company": "LMMS"
+  },
+  {
+    "name": "CameraSettings",
+    "company": "Logitech"
+  },
+  {
+    "name": "Harmony",
+    "company": "Logitech"
+  },
+  {
+    "name": "LGS",
+    "company": "Logitech"
+  },
+  {
+    "name": "Options",
+    "company": "Logitech"
+  },
+  {
+    "name": "SetPoint",
+    "company": "Logitech"
+  },
+  {
+    "name": "UnifyingSoftware",
+    "company": "Logitech"
+  },
+  {
+    "name": "GoToMeeting",
+    "company": "LogMeIn"
+  },
+  {
+    "name": "Hamachi",
+    "company": "LogMeIn"
+  },
+  {
+    "name": "LastPass",
+    "company": "LogMeIn"
+  },
+  {
+    "name": "12306-electron",
+    "company": "long-woo"
+  },
+  {
+    "name": "Loom",
+    "company": "Loom"
+  },
+  {
+    "name": "LOOT",
+    "company": "LOOT"
+  },
+  {
+    "name": "Love2d",
+    "company": "Love2d"
+  },
+  {
+    "name": "MyMoney",
+    "company": "LovettSoftware"
+  },
+  {
+    "name": "gg",
+    "company": "Lowkey"
+  },
+  {
+    "name": "ActiveDataBurner",
+    "company": "LSoftTechnologies"
+  },
+  {
+    "name": "ActiveDiskEditor",
+    "company": "LSoftTechnologies"
+  },
+  {
+    "name": "ActiveDiskMonitor",
+    "company": "LSoftTechnologies"
+  },
+  {
+    "name": "ActiveDVDEraser",
+    "company": "LSoftTechnologies"
+  },
+  {
+    "name": "ActiveISOBurner",
+    "company": "LSoftTechnologies"
+  },
+  {
+    "name": "ActiveISOManager",
+    "company": "LSoftTechnologies"
+  },
+  {
+    "name": "ActiveKillDisk",
+    "company": "LSoftTechnologies"
+  },
+  {
+    "name": "ActiveLiveCD",
+    "company": "LSoftTechnologies"
+  },
+  {
+    "name": "ActivePartitionManager",
+    "company": "LSoftTechnologies"
+  },
+  {
+    "name": "ActivePartitionRecovery",
+    "company": "LSoftTechnologies"
+  },
+  {
+    "name": "ActiveUNERASER",
+    "company": "LSoftTechnologies"
+  },
+  {
+    "name": "ActiveZDelete",
+    "company": "LSoftTechnologies"
+  },
+  {
+    "name": "NTFSDataRecovery",
+    "company": "LSoftTechnologies"
+  },
+  {
+    "name": "easyconnect",
+    "company": "lstratman"
+  },
+  {
+    "name": "WorkOffice",
+    "company": "LuanRoger"
+  },
+  {
+    "name": "RunJS",
+    "company": "lukehaas"
+  },
+  {
+    "name": "LuminanceHDR",
+    "company": "LuminanceHDR"
+  },
+  {
+    "name": "PyMODA",
+    "company": "LUPhysics"
+  },
+  {
+    "name": "DropIt",
+    "company": "LupoPenSuite"
+  },
+  {
+    "name": "Netron",
+    "company": "LutzRoeder"
+  },
+  {
+    "name": "lightworks",
+    "company": "LWKS"
+  },
+  {
+    "name": "lx-music-desktop",
+    "company": "lyswhut"
+  },
+  {
+    "name": "LyX",
+    "company": "LyX"
+  },
+  {
+    "name": "samsung",
+    "company": "m2070"
+  },
+  {
+    "name": "A3Launcher",
+    "company": "Maca134"
+  },
+  {
+    "name": "DZLauncher",
+    "company": "Maca134"
+  },
+  {
+    "name": "Encrypto",
+    "company": "MacPaw"
+  },
+  {
+    "name": "MacType",
+    "company": "MacType"
+  },
+  {
+    "name": "upcount",
+    "company": "madisvain"
+  },
+  {
+    "name": "majsoul-plus",
+    "company": "majsoulplus"
+  },
+  {
+    "name": "wallhaven-electron",
+    "company": "MaLuns"
+  },
+  {
+    "name": "Malwarebytes",
+    "company": "Malwarebytes"
+  },
+  {
+    "name": "Privacy",
+    "company": "Malwarebytes"
+  },
+  {
+    "name": "MAMP",
+    "company": "MAMP"
+  },
+  {
+    "name": "Mandelbulber",
+    "company": "Mandelbulber"
+  },
+  {
+    "name": "ManicTime",
+    "company": "ManicTime"
+  },
+  {
+    "name": "Manifold-Release-8",
+    "company": "ManifoldSoftware"
+  },
+  {
+    "name": "Manifold-Release-9",
+    "company": "ManifoldSoftware"
+  },
+  {
+    "name": "Manifold-Viewer-Release-9",
+    "company": "ManifoldSoftware"
+  },
+  {
+    "name": "TesseractOCR",
+    "company": "MannheimUniversityLibrary"
+  },
+  {
+    "name": "gitify",
+    "company": "manosim"
+  },
+  {
+    "name": "MapTilerDesktop",
+    "company": "MapTiler"
+  },
+  {
+    "name": "MSIXHero",
+    "company": "MarcinOtorowski"
+  },
+  {
+    "name": "FreeCommanderXE",
+    "company": "MarekJasinski"
+  },
+  {
+    "name": "VcXsrv",
+    "company": "marha"
+  },
+  {
+    "name": "Server",
+    "company": "MariaDB"
+  },
+  {
+    "name": "Rosi",
+    "company": "MarkoBL"
+  },
+  {
+    "name": "MarkText",
+    "company": "MarkText"
+  },
+  {
+    "name": "ColorPicker",
+    "company": "martinchrzan"
+  },
+  {
+    "name": "museeks",
+    "company": "martpie"
+  },
+  {
+    "name": "MasterPackager",
+    "company": "MasterPackager"
+  },
+  {
+    "name": "MultiCommander",
+    "company": "MathiasSvensson"
+  },
+  {
+    "name": "matlabdrive",
+    "company": "mathworks"
+  },
+  {
+    "name": "MattermostDesktop",
+    "company": "Mattermost"
+  },
+  {
+    "name": "PixelZoomer",
+    "company": "MatthiasSchuetz"
+  },
+  {
+    "name": "O2",
+    "company": "maurizuki"
+  },
+  {
+    "name": "Maxima",
+    "company": "MaximaTeam"
+  },
+  {
+    "name": "ConEmu",
+    "company": "Maximus5"
+  },
+  {
+    "name": "Maxthon5",
+    "company": "Maxthon"
+  },
+  {
+    "name": "tockler",
+    "company": "maygo"
+  },
+  {
+    "name": "eintopf",
+    "company": "mazehall"
+  },
+  {
+    "name": "7zip-zstd",
+    "company": "mcmilk"
+  },
+  {
+    "name": "MCreator",
+    "company": "MCreator"
+  },
+  {
+    "name": "V",
+    "company": "MedalB"
+  },
+  {
+    "name": "MediaInfo",
+    "company": "MediaArea"
+  },
+  {
+    "name": "MediaInfo-GUI",
+    "company": "MediaArea"
+  },
+  {
+    "name": "MediathekView",
+    "company": "MediathekViewTeam"
+  },
+  {
+    "name": "MEGASync",
+    "company": "Mega"
+  },
+  {
+    "name": "Tweeten",
+    "company": "MehediHassan"
+  },
+  {
+    "name": "Meld",
+    "company": "Meld"
+  },
+  {
+    "name": "Melodics",
+    "company": "Melodics"
+  },
+  {
+    "name": "Shotcut",
+    "company": "Meltytech"
+  },
+  {
+    "name": "Google-Assistant",
+    "company": "Melvin-Abraham"
+  },
+  {
+    "name": "MemuraiDeveloper",
+    "company": "Memurai"
+  },
+  {
+    "name": "MeshHouse",
+    "company": "MeshHouse"
+  },
+  {
+    "name": "vpilot",
+    "company": "metacraft"
+  },
+  {
+    "name": "IHaveNoTomatoes",
+    "company": "MHGames"
+  },
+  {
+    "name": "ThoseFunnyFunguloids",
+    "company": "MHGames"
+  },
+  {
+    "name": "ASIO4ALL",
+    "company": "MichaelTippach"
+  },
+  {
+    "name": "Stunnel",
+    "company": "MichalTrojnara"
+  },
+  {
+    "name": "AccessibilityInsightsAndroid",
+    "company": "Microsoft"
+  },
+  {
+    "name": "AccessibilityInsightsWindows",
+    "company": "Microsoft"
+  },
+  {
+    "name": "ADKPEAddon",
+    "company": "Microsoft"
+  },
+  {
+    "name": "AppInstallerFileBuilder",
+    "company": "Microsoft"
+  },
+  {
+    "name": "azure-iot-explorer",
+    "company": "Microsoft"
+  },
+  {
+    "name": "AzureCLI",
+    "company": "Microsoft"
+  },
+  {
+    "name": "AzureCosmosEmulator",
+    "company": "Microsoft"
+  },
+  {
+    "name": "AzureDataStudio",
+    "company": "Microsoft"
+  },
+  {
+    "name": "AzureFunctionsCoreTools",
+    "company": "Microsoft"
+  },
+  {
+    "name": "AzureStorageEmulator",
+    "company": "Microsoft"
+  },
+  {
+    "name": "AzureStorageExplorer",
+    "company": "Microsoft"
+  },
+  {
+    "name": "Bicep",
+    "company": "Microsoft"
+  },
+  {
+    "name": "bitsmanager",
+    "company": "Microsoft"
+  },
+  {
+    "name": "BotFrameworkComposer",
+    "company": "Microsoft"
+  },
+  {
+    "name": "BotFrameworkEmulator",
+    "company": "Microsoft"
+  },
+  {
+    "name": "DeploymentToolkit",
+    "company": "Microsoft"
+  },
+  {
+    "name": "dotnet",
+    "company": "Microsoft"
+  },
+  {
+    "name": "dotNetFramework",
+    "company": "Microsoft"
+  },
+  {
+    "name": "dotnetPreview",
+    "company": "Microsoft"
+  },
+  {
+    "name": "dotnetRuntime",
+    "company": "Microsoft"
+  },
+  {
+    "name": "DotNetWorkloadAndroid",
+    "company": "Microsoft"
+  },
+  {
+    "name": "DotNetWorkloadIos",
+    "company": "Microsoft"
+  },
+  {
+    "name": "Edge",
+    "company": "Microsoft"
+  },
+  {
+    "name": "EdgeBeta",
+    "company": "Microsoft"
+  },
+  {
+    "name": "EdgeDev",
+    "company": "Microsoft"
+  },
+  {
+    "name": "EdgeWebView2Runtime",
+    "company": "Microsoft"
+  },
+  {
+    "name": "Git",
+    "company": "Microsoft"
+  },
+  {
+    "name": "GitCredentialManagerCore",
+    "company": "Microsoft"
+  },
+  {
+    "name": "GitCredentialManagerforWindows",
+    "company": "Microsoft"
+  },
+  {
+    "name": "Ironpython2",
+    "company": "Microsoft"
+  },
+  {
+    "name": "MouseandKeyboardCenter",
+    "company": "Microsoft"
+  },
+  {
+    "name": "MouseWithoutBorders",
+    "company": "Microsoft"
+  },
+  {
+    "name": "MsGraphCLI",
+    "company": "Microsoft"
+  },
+  {
+    "name": "MSIXCore",
+    "company": "Microsoft"
+  },
+  {
+    "name": "msmpi",
+    "company": "Microsoft"
+  },
+  {
+    "name": "msmpisdk",
+    "company": "Microsoft"
+  },
+  {
+    "name": "MultilingualAppToolkit",
+    "company": "Microsoft"
+  },
+  {
+    "name": "Office",
+    "company": "Microsoft"
+  },
+  {
+    "name": "officedeploymenttool",
+    "company": "Microsoft"
+  },
+  {
+    "name": "OneDrive",
+    "company": "Microsoft"
+  },
+  {
+    "name": "OneDriveEnterprise",
+    "company": "Microsoft"
+  },
+  {
+    "name": "OneDriveInsiders",
+    "company": "Microsoft"
+  },
+  {
+    "name": "OneDriveInternalFast",
+    "company": "Microsoft"
+  },
+  {
+    "name": "OneDriveInternalSlow",
+    "company": "Microsoft"
+  },
+  {
+    "name": "OpenJDK",
+    "company": "Microsoft"
+  },
+  {
+    "name": "PowerAppsCLI",
+    "company": "Microsoft"
+  },
+  {
+    "name": "PowerBI",
+    "company": "Microsoft"
+  },
+  {
+    "name": "PowerShell",
+    "company": "Microsoft"
+  },
+  {
+    "name": "PowerShell-Preview",
+    "company": "Microsoft"
+  },
+  {
+    "name": "PowerShell-Preview-MSIX",
+    "company": "Microsoft"
+  },
+  {
+    "name": "PowerToys",
+    "company": "Microsoft"
+  },
+  {
+    "name": "ProjectMyScreen",
+    "company": "Microsoft"
+  },
+  {
+    "name": "RemoteDesktopClient",
+    "company": "Microsoft"
+  },
+  {
+    "name": "ROpen",
+    "company": "Microsoft"
+  },
+  {
+    "name": "Skype",
+    "company": "Microsoft"
+  },
+  {
+    "name": "SkypeInsiders",
+    "company": "Microsoft"
+  },
+  {
+    "name": "SQLServerManagementStudio",
+    "company": "Microsoft"
+  },
+  {
+    "name": "SurfaceDuoEmulator",
+    "company": "Microsoft"
+  },
+  {
+    "name": "Teams",
+    "company": "Microsoft"
+  },
+  {
+    "name": "TeamsContinuousDeployment",
+    "company": "Microsoft"
+  },
+  {
+    "name": "TeamsExploration",
+    "company": "Microsoft"
+  },
+  {
+    "name": "TeamsPreview",
+    "company": "Microsoft"
+  },
+  {
+    "name": "UpdateAssistant",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VC++2005Redist-x64",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VC++2005Redist-x86",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VC++2008Redist-x64",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VC++2008Redist-x86",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VC++2010Redist-x64",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VC++2010Redist-x86",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VC++2012Redist-x64",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VC++2012Redist-x86",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VC++2013Redist-x64",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VC++2013Redist-x86",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VC++2015-2019Redist-x64",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VC++2015-2019Redist-x86",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VC++2015Redist-x64",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VC++2015Redist-x86",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VC++2017Redist-x64",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VC++2017Redist-x86",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VFSforGit",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VisioViewer",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VisualStudio",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VisualStudioCode",
+    "company": "Microsoft"
+  },
+  {
+    "name": "VisualStudioCollect",
+    "company": "Microsoft"
+  },
+  {
+    "name": "webpicmd",
+    "company": "Microsoft"
+  },
+  {
+    "name": "WindowsADK",
+    "company": "Microsoft"
+  },
+  {
+    "name": "WindowsAdminCenter",
+    "company": "Microsoft"
+  },
+  {
+    "name": "WindowsSDK",
+    "company": "Microsoft"
+  },
+  {
+    "name": "WindowsTerminal",
+    "company": "Microsoft"
+  },
+  {
+    "name": "WindowsTerminalPreview",
+    "company": "Microsoft"
+  },
+  {
+    "name": "WindowsVirtualDesktopAgent",
+    "company": "Microsoft"
+  },
+  {
+    "name": "WindowsVirtualDesktopBootloader",
+    "company": "Microsoft"
+  },
+  {
+    "name": "WindowsWDK",
+    "company": "Microsoft"
+  },
+  {
+    "name": "WingetCreate",
+    "company": "Microsoft"
+  },
+  {
+    "name": "XMLNotepad",
+    "company": "Microsoft"
+  },
+  {
+    "name": "xstudio",
+    "company": "Microsoft"
+  },
+  {
+    "name": "TheDude",
+    "company": "Mikrotik"
+  },
+  {
+    "name": "PureData",
+    "company": "MillerPuckette"
+  },
+  {
+    "name": "Min",
+    "company": "Min"
+  },
+  {
+    "name": "Midterm",
+    "company": "MinhLoi"
+  },
+  {
+    "name": "MirandaIM",
+    "company": "MirandaIM"
+  },
+  {
+    "name": "MirandaNG",
+    "company": "MirandaNG"
+  },
+  {
+    "name": "Lens",
+    "company": "Mirantis"
+  },
+  {
+    "name": "AnyVizCloudAdapter",
+    "company": "Mirasoft"
+  },
+  {
+    "name": "mIRC",
+    "company": "mIRC"
+  },
+  {
+    "name": "Action",
+    "company": "Mirillis"
+  },
+  {
+    "name": "SplashUltimate",
+    "company": "Mirillis"
+  },
+  {
+    "name": "Miro",
+    "company": "Miro"
+  },
+  {
+    "name": "CertAid",
+    "company": "MIT"
+  },
+  {
+    "name": "Scratch",
+    "company": "MITMediaLab"
+  },
+  {
+    "name": "MiXXX",
+    "company": "MiXXX"
+  },
+  {
+    "name": "MKVToolNix",
+    "company": "MKVToolNix"
+  },
+  {
+    "name": "markdownoutlook",
+    "company": "mmanela"
+  },
+  {
+    "name": "loopdrop",
+    "company": "mmckegg"
+  },
+  {
+    "name": "Mobirise",
+    "company": "Mobirise"
+  },
+  {
+    "name": "Modelio",
+    "company": "Modeliosoft"
+  },
+  {
+    "name": "ModernFlyouts",
+    "company": "ModernFlyouts"
+  },
+  {
+    "name": "QuickPictureViewer",
+    "company": "ModuleArt"
+  },
+  {
+    "name": "MinecraftLauncher",
+    "company": "Mojang"
+  },
+  {
+    "name": "Molotov",
+    "company": "MolotovTV"
+  },
+  {
+    "name": "Compass",
+    "company": "MongoDB"
+  },
+  {
+    "name": "DatabaseTools",
+    "company": "MongoDB"
+  },
+  {
+    "name": "Server",
+    "company": "MongoDB"
+  },
+  {
+    "name": "Shell",
+    "company": "MongoDB"
+  },
+  {
+    "name": "Notejoy",
+    "company": "MonkiLabs"
+  },
+  {
+    "name": "gtksharp",
+    "company": "Mono"
+  },
+  {
+    "name": "Mono",
+    "company": "Mono"
+  },
+  {
+    "name": "MonoGame",
+    "company": "MonoGame"
+  },
+  {
+    "name": "PhotoScape",
+    "company": "Mooii"
+  },
+  {
+    "name": "PaleMoon",
+    "company": "MoonchildProductions"
+  },
+  {
+    "name": "Moonlight",
+    "company": "MoonlightGameStreamingProject"
+  },
+  {
+    "name": "LunarClient",
+    "company": "Moonsworth"
+  },
+  {
+    "name": "y2mp3",
+    "company": "moshfeu"
+  },
+  {
+    "name": "Firefox",
+    "company": "Mozilla"
+  },
+  {
+    "name": "FirefoxDeveloperEdition",
+    "company": "Mozilla"
+  },
+  {
+    "name": "FirefoxESR",
+    "company": "Mozilla"
+  },
+  {
+    "name": "Thunderbird",
+    "company": "Mozilla"
+  },
+  {
+    "name": "ThunderbirdBeta",
+    "company": "Mozilla"
+  },
+  {
+    "name": "Mp3tag",
+    "company": "Mp3tag"
+  },
+  {
+    "name": "MPC-HC",
+    "company": "MPC-HC"
+  },
+  {
+    "name": "mRemoteNG",
+    "company": "mRemoteNG"
+  },
+  {
+    "name": "Clink",
+    "company": "MRidgers"
+  },
+  {
+    "name": "msys2",
+    "company": "msys2"
+  },
+  {
+    "name": "Mu",
+    "company": "Mu"
+  },
+  {
+    "name": "Mubu",
+    "company": "Mubu"
+  },
+  {
+    "name": "before-dawn",
+    "company": "muffinista"
+  },
+  {
+    "name": "MullvadVPN",
+    "company": "MullvadVPN"
+  },
+  {
+    "name": "multibootusb",
+    "company": "multibootusb"
+  },
+  {
+    "name": "Mumble",
+    "company": "Mumble"
+  },
+  {
+    "name": "Musescore",
+    "company": "Musescore"
+  },
+  {
+    "name": "Picard",
+    "company": "MusicBrainz"
+  },
+  {
+    "name": "GameCenter",
+    "company": "MyGames"
+  },
+  {
+    "name": "MyPaint",
+    "company": "MyPaint"
+  },
+  {
+    "name": "Mysterium",
+    "company": "MysteriumNetwork"
+  },
+  {
+    "name": "uncolored",
+    "company": "n457"
+  },
+  {
+    "name": "TrackManiaNationsForever",
+    "company": "Nadeo"
+  },
+  {
+    "name": "PacketSender",
+    "company": "NagleCode"
+  },
+  {
+    "name": "OpenHashTab",
+    "company": "namazso"
+  },
+  {
+    "name": "Electrum-NMC",
+    "company": "NamecoinProject"
+  },
+  {
+    "name": "NamecoinCore",
+    "company": "NamecoinProject"
+  },
+  {
+    "name": "dingtalk",
+    "company": "nashaofu"
+  },
+  {
+    "name": "NASM",
+    "company": "NASM"
+  },
+  {
+    "name": "corvusskk",
+    "company": "nathancorvussolis"
+  },
+  {
+    "name": "Beatdrop",
+    "company": "NathanielJohns"
+  },
+  {
+    "name": "NitroShare",
+    "company": "NathanOsman"
+  },
+  {
+    "name": "NaturalReader16",
+    "company": "Naturalsoft"
+  },
+  {
+    "name": "Nelson",
+    "company": "NelsonNumericalSoftware"
+  },
+  {
+    "name": "NeoLoad",
+    "company": "Neotys"
+  },
+  {
+    "name": "CloudMusic",
+    "company": "Netease"
+  },
+  {
+    "name": "CloudMusicUWP",
+    "company": "Netease"
+  },
+  {
+    "name": "PortX",
+    "company": "NetSarangComputer"
+  },
+  {
+    "name": "LAVFilters",
+    "company": "Nevcairiel"
+  },
+  {
+    "name": "TuxPaint",
+    "company": "NewBreedSoftware"
+  },
+  {
+    "name": "TuxPaintStamps",
+    "company": "NewBreedSoftware"
+  },
+  {
+    "name": "FeedDemon",
+    "company": "NewsGator"
+  },
+  {
+    "name": "NextcloudDesktop",
+    "company": "Nextcloud"
+  },
+  {
+    "name": "NextDNS",
+    "company": "NextDNS"
+  },
+  {
+    "name": "Vortex",
+    "company": "NexusMods"
+  },
+  {
+    "name": "ngbget",
+    "company": "ngbget"
+  },
+  {
+    "name": "ScreenToGif",
+    "company": "NickeManarin"
+  },
+  {
+    "name": "FileOptimizer",
+    "company": "Nikkho"
+  },
+  {
+    "name": "palamedes",
+    "company": "nikpapa"
+  },
+  {
+    "name": "NimbusNote",
+    "company": "NimbusWeb"
+  },
+  {
+    "name": "BlueScreenView",
+    "company": "NirSoft"
+  },
+  {
+    "name": "ShellExView",
+    "company": "NirSoft"
+  },
+  {
+    "name": "NitroPro",
+    "company": "NitroSoftware"
+  },
+  {
+    "name": "NTLite",
+    "company": "Nlitesoft"
+  },
+  {
+    "name": "Nodist",
+    "company": "Nodist"
+  },
+  {
+    "name": "DUC",
+    "company": "NoIP"
+  },
+  {
+    "name": "NoMachine",
+    "company": "NoMachine"
+  },
+  {
+    "name": "NoMachineClient",
+    "company": "NoMachine"
+  },
+  {
+    "name": "nomacs",
+    "company": "nomacs"
+  },
+  {
+    "name": "NordPass",
+    "company": "NordPassTeam"
+  },
+  {
+    "name": "NordVPN",
+    "company": "NordVPN"
+  },
+  {
+    "name": "NoSQLBooster",
+    "company": "NoSQLBooster"
+  },
+  {
+    "name": "Gyazo",
+    "company": "Nota"
+  },
+  {
+    "name": "notable",
+    "company": "notable"
+  },
+  {
+    "name": "Notepad++",
+    "company": "Notepad++"
+  },
+  {
+    "name": "Notepad2mod",
+    "company": "Notepad2mod"
+  },
+  {
+    "name": "Notion",
+    "company": "Notion"
+  },
+  {
+    "name": "NozbePersonal",
+    "company": "Nozbe"
+  },
+  {
+    "name": "NTag",
+    "company": "nrittsti"
+  },
+  {
+    "name": "NSIS",
+    "company": "NSIS"
+  },
+  {
+    "name": "WindowSpace",
+    "company": "NTWindSoftware"
+  },
+  {
+    "name": "WinSnap",
+    "company": "NTWindSoftware"
+  },
+  {
+    "name": "NuGetPackageExplorer",
+    "company": "NuGetPackageExplorer"
+  },
+  {
+    "name": "Nullpomino",
+    "company": "Nullpomino"
+  },
+  {
+    "name": "Nutstore",
+    "company": "Nutstore"
+  },
+  {
+    "name": "NVDA",
+    "company": "NVAccess"
+  },
+  {
+    "name": "CUDA",
+    "company": "Nvidia"
+  },
+  {
+    "name": "GeForceExperience",
+    "company": "Nvidia"
+  },
+  {
+    "name": "GeForceNow",
+    "company": "Nvidia"
+  },
+  {
+    "name": "RTXVoice",
+    "company": "Nvidia"
+  },
+  {
+    "name": "nvQuickSite",
+    "company": "nvisionative"
+  },
+  {
+    "name": "NXLog-CE",
+    "company": "NXLog"
+  },
+  {
+    "name": "nzbget",
+    "company": "nzbget"
+  },
+  {
+    "name": "CAM",
+    "company": "NZXT"
+  },
+  {
+    "name": "Obsidian",
+    "company": "Obsidian"
+  },
+  {
+    "name": "OBSStudio",
+    "company": "OBSProject"
+  },
+  {
+    "name": "Ocenaudio",
+    "company": "Ocenaudio"
+  },
+  {
+    "name": "Server",
+    "company": "OctopusDeploy"
+  },
+  {
+    "name": "Tentacle",
+    "company": "OctopusDeploy"
+  },
+  {
+    "name": "ojdkbuild",
+    "company": "ojdkbuild"
+  },
+  {
+    "name": "switchhosts",
+    "company": "oldj"
+  },
+  {
+    "name": "RapidEnvironmentEditor",
+    "company": "OlegDanilov"
+  },
+  {
+    "name": "ueli",
+    "company": "OliverSchwendener"
+  },
+  {
+    "name": "OliveVideoEditor",
+    "company": "OliveTeam"
+  },
+  {
+    "name": "VIA",
+    "company": "Olivia"
+  },
+  {
+    "name": "PandocGui",
+    "company": "Ombrelin"
+  },
+  {
+    "name": "PlexRichPresence",
+    "company": "Ombrelin"
+  },
+  {
+    "name": "Avro",
+    "company": "OmicronLab"
+  },
+  {
+    "name": "AvroKeyboard",
+    "company": "OmicronLab"
+  },
+  {
+    "name": "OneScript",
+    "company": "OneScript"
+  },
+  {
+    "name": "OnionShare",
+    "company": "OnionShare"
+  },
+  {
+    "name": "AVSDiscCreator",
+    "company": "OnlineMediaTechnologiesLtd"
+  },
+  {
+    "name": "DesktopEditors",
+    "company": "ONLYOFFICE"
+  },
+  {
+    "name": "Speedtest",
+    "company": "Ookla"
+  },
+  {
+    "name": "Open-Shell-Menu",
+    "company": "Open-Shell"
+  },
+  {
+    "name": "NodeJS",
+    "company": "OpenJS"
+  },
+  {
+    "name": "NodeJSLTS",
+    "company": "OpenJS"
+  },
+  {
+    "name": "NodeJSNightly",
+    "company": "OpenJS"
+  },
+  {
+    "name": "OpenLiveWriter",
+    "company": "OpenLiveWriter"
+  },
+  {
+    "name": "4KSlideshowMaker",
+    "company": "OpenMedia"
+  },
+  {
+    "name": "4KStogram",
+    "company": "OpenMedia"
+  },
+  {
+    "name": "4KVideoDownloader",
+    "company": "OpenMedia"
+  },
+  {
+    "name": "4KVideoToMP3",
+    "company": "OpenMedia"
+  },
+  {
+    "name": "4KYoutubetoMP3",
+    "company": "OpenMedia"
+  },
+  {
+    "name": "OpenMPT",
+    "company": "OpenMPT"
+  },
+  {
+    "name": "Mapper",
+    "company": "OpenOrienteering"
+  },
+  {
+    "name": "OpenOSRSLauncher",
+    "company": "OpenOSRS"
+  },
+  {
+    "name": "OpenRA",
+    "company": "OpenRA"
+  },
+  {
+    "name": "OpenRCT2",
+    "company": "OpenRCT2"
+  },
+  {
+    "name": "OpenRPA",
+    "company": "OpenRPAApS"
+  },
+  {
+    "name": "OpenSCAD",
+    "company": "OpenSCAD"
+  },
+  {
+    "name": "Downloader",
+    "company": "OpenShopChannel"
+  },
+  {
+    "name": "OpenShot",
+    "company": "OpenShot"
+  },
+  {
+    "name": "FlashFXP",
+    "company": "OpenSight"
+  },
+  {
+    "name": "Josm",
+    "company": "OpenStreetMap"
+  },
+  {
+    "name": "OpenTTD",
+    "company": "OpenTTD"
+  },
+  {
+    "name": "OpenVPN",
+    "company": "OpenVPNTechnologies"
+  },
+  {
+    "name": "OpenVPNConnect",
+    "company": "OpenVPNTechnologies"
+  },
+  {
+    "name": "openwmail",
+    "company": "openwmail"
+  },
+  {
+    "name": "Opera",
+    "company": "Opera"
+  },
+  {
+    "name": "OperaGX",
+    "company": "Opera"
+  },
+  {
+    "name": "gwsl",
+    "company": "opticos"
+  },
+  {
+    "name": "JavaRuntimeEnvironment",
+    "company": "Oracle"
+  },
+  {
+    "name": "MySQL",
+    "company": "Oracle"
+  },
+  {
+    "name": "VirtualBox",
+    "company": "Oracle"
+  },
+  {
+    "name": "VirtualBoxDevelopment",
+    "company": "Oracle"
+  },
+  {
+    "name": "VirtualBoxTest",
+    "company": "Oracle"
+  },
+  {
+    "name": "Volanta",
+    "company": "OrbxSimulationSystems"
+  },
+  {
+    "name": "QGIS",
+    "company": "OSGeo"
+  },
+  {
+    "name": "QGIS_LTR",
+    "company": "OSGeo"
+  },
+  {
+    "name": "BatteryBar",
+    "company": "OsirisDevelopment"
+  },
+  {
+    "name": "tetr",
+    "company": "osk"
+  },
+  {
+    "name": "TETRIO",
+    "company": "osk"
+  },
+  {
+    "name": "CrewLink",
+    "company": "Ottomated"
+  },
+  {
+    "name": "GetDiz",
+    "company": "Outertech"
+  },
+  {
+    "name": "OmapRevitPlugin",
+    "company": "ovital"
+  },
+  {
+    "name": "OpenVR-AdvancedSettings",
+    "company": "OVRASTeam"
+  },
+  {
+    "name": "ownCloudDesktop",
+    "company": "ownCloud"
+  },
+  {
+    "name": "OxfordLearnersBookshelf",
+    "company": "OxfordUniversityPressELT"
+  },
+  {
+    "name": "Deepvocal-Hitsuboku-Kumi-CHN",
+    "company": "oxygendioxide"
+  },
+  {
+    "name": "Deepvocal-Hitsuboku-Kumi-CHN-dv1",
+    "company": "oxygendioxide"
+  },
+  {
+    "name": "utaformatix",
+    "company": "oxygendioxide"
+  },
+  {
+    "name": "PacketStream",
+    "company": "PacketStreamTeam"
+  },
+  {
+    "name": "PRTGDesktop",
+    "company": "Paessler"
+  },
+  {
+    "name": "PaladiumLauncher",
+    "company": "Paladium"
+  },
+  {
+    "name": "LiveresultatDesktop",
+    "company": "Pallhed"
+  },
+  {
+    "name": "PDFlux",
+    "company": "PaodingAI"
+  },
+  {
+    "name": "MobilityPrint",
+    "company": "PaperCutSoftware"
+  },
+  {
+    "name": "ParadoxLauncher",
+    "company": "ParadoxInteractive"
+  },
+  {
+    "name": "APFS",
+    "company": "Paragon"
+  },
+  {
+    "name": "LinuxFileSystems",
+    "company": "Paragon"
+  },
+  {
+    "name": "ParagonBackupRecoveryCE",
+    "company": "Paragon"
+  },
+  {
+    "name": "Parsec",
+    "company": "Parsec"
+  },
+  {
+    "name": "MSIXCommander",
+    "company": "PascalBerger"
+  },
+  {
+    "name": "PasscoverySuite",
+    "company": "Passcovery"
+  },
+  {
+    "name": "BeakerBrowser",
+    "company": "PaulFrazee"
+  },
+  {
+    "name": "deskreen",
+    "company": "pavlobu"
+  },
+  {
+    "name": "AdvancedRestClient",
+    "company": "PawelPsztyc"
+  },
+  {
+    "name": "PDFCandyDesktop",
+    "company": "PDFCandy"
+  },
+  {
+    "name": "PDFtk-ThePDFToolkit",
+    "company": "PDFLabs"
+  },
+  {
+    "name": "PDFtkServer",
+    "company": "PDFLabs"
+  },
+  {
+    "name": "PDFsam",
+    "company": "PDFsam"
+  },
+  {
+    "name": "Cacher",
+    "company": "PenguinLabs"
+  },
+  {
+    "name": "Osu!",
+    "company": "Peppy"
+  },
+  {
+    "name": "P4Merge",
+    "company": "Perforce"
+  },
+  {
+    "name": "P4V",
+    "company": "Perforce"
+  },
+  {
+    "name": "Persepolis",
+    "company": "PersepolisDownloadManager"
+  },
+  {
+    "name": "POVRay",
+    "company": "PersistenceOfVisionRaytracer"
+  },
+  {
+    "name": "QuickPar",
+    "company": "PeterBClements"
+  },
+  {
+    "name": "Mnemosyne",
+    "company": "PeterBienstman"
+  },
+  {
+    "name": "TransmissionRemoteGUI",
+    "company": "PeterDaveHello"
+  },
+  {
+    "name": "foobar2000",
+    "company": "PeterPawlowski"
+  },
+  {
+    "name": "Odassey",
+    "company": "PhilipGerke"
+  },
+  {
+    "name": "HueSync",
+    "company": "Philips"
+  },
+  {
+    "name": "PhonerLite",
+    "company": "Phoner"
+  },
+  {
+    "name": "PhraseExpress",
+    "company": "PhraseExpress"
+  },
+  {
+    "name": "PicGo",
+    "company": "PicGo"
+  },
+  {
+    "name": "PicoTorrent",
+    "company": "PicoTorrent"
+  },
+  {
+    "name": "picpick",
+    "company": "picpick"
+  },
+  {
+    "name": "picturama",
+    "company": "picturama"
+  },
+  {
+    "name": "Pidgin",
+    "company": "Pidgin"
+  },
+  {
+    "name": "CCleaner",
+    "company": "Piriform"
+  },
+  {
+    "name": "CCleanerProTrial",
+    "company": "Piriform"
+  },
+  {
+    "name": "Defraggler",
+    "company": "Piriform"
+  },
+  {
+    "name": "Recuva",
+    "company": "Piriform"
+  },
+  {
+    "name": "Speccy",
+    "company": "Piriform"
+  },
+  {
+    "name": "ElectronwrapperforPixlrE",
+    "company": "Pixlrteam"
+  },
+  {
+    "name": "ElectronwrapperforPixlrX",
+    "company": "Pixlrteam"
+  },
+  {
+    "name": "gateway",
+    "company": "pku"
+  },
+  {
+    "name": "Playnite",
+    "company": "Playnite"
+  },
+  {
+    "name": "PSNow",
+    "company": "PlayStation"
+  },
+  {
+    "name": "PSRemotePlay",
+    "company": "PlayStation"
+  },
+  {
+    "name": "Plex",
+    "company": "plex"
+  },
+  {
+    "name": "Plexamp",
+    "company": "plex"
+  },
+  {
+    "name": "plexmediaplayer",
+    "company": "plex"
+  },
+  {
+    "name": "plexmediaserver",
+    "company": "plex"
+  },
+  {
+    "name": "alterego",
+    "company": "plogue"
+  },
+  {
+    "name": "chipspeech",
+    "company": "plogue"
+  },
+  {
+    "name": "PDFill",
+    "company": "PlotSoft"
+  },
+  {
+    "name": "yuqing-monitor-electron",
+    "company": "poetries"
+  },
+  {
+    "name": "FileBot",
+    "company": "PointPlanck"
+  },
+  {
+    "name": "PokerTH",
+    "company": "PokerTH"
+  },
+  {
+    "name": "Polar",
+    "company": "Polar"
+  },
+  {
+    "name": "PlantronicsHub",
+    "company": "Poly"
+  },
+  {
+    "name": "Popcorn-Time-Ru",
+    "company": "PopcornTime"
+  },
+  {
+    "name": "PopcornTime",
+    "company": "PopcornTime"
+  },
+  {
+    "name": "Postbox",
+    "company": "Postbox"
+  },
+  {
+    "name": "pgAdmin",
+    "company": "PostgreSQL"
+  },
+  {
+    "name": "PostgreSQL",
+    "company": "PostgreSQL"
+  },
+  {
+    "name": "Postman",
+    "company": "Postman"
+  },
+  {
+    "name": "AnyBurn",
+    "company": "PowerSoftware"
+  },
+  {
+    "name": "PowerISO",
+    "company": "PowerSoftware"
+  },
+  {
+    "name": "PPSSPP",
+    "company": "PPSSPPTeam"
+  },
+  {
+    "name": "FreeTube",
+    "company": "PrestonN"
+  },
+  {
+    "name": "Prey",
+    "company": "Prey"
+  },
+  {
+    "name": "Geekbench",
+    "company": "PrimateLabs"
+  },
+  {
+    "name": "Primecount",
+    "company": "Primecount"
+  },
+  {
+    "name": "Primesieve",
+    "company": "Primesieve"
+  },
+  {
+    "name": "PrivateInternetAccess",
+    "company": "PrivateInternetAccess"
+  },
+  {
+    "name": "Project64",
+    "company": "Project64"
+  },
+  {
+    "name": "WMIExporter",
+    "company": "Prometheus"
+  },
+  {
+    "name": "DataRescue",
+    "company": "ProsoftEngineering"
+  },
+  {
+    "name": "ProtonMailBridge",
+    "company": "ProtonTechnologies"
+  },
+  {
+    "name": "ProtonVPN",
+    "company": "ProtonTechnologies"
+  },
+  {
+    "name": "PrusaSlicer",
+    "company": "Prusa3D"
+  },
+  {
+    "name": "PuloversMacroCreator",
+    "company": "PuloversMacroCreator"
+  },
+  {
+    "name": "edgeandbingdeflector",
+    "company": "pulsejet"
+  },
+  {
+    "name": "RocketDock",
+    "company": "PunkLabs"
+  },
+  {
+    "name": "pdk",
+    "company": "Puppet"
+  },
+  {
+    "name": "puppet-agent",
+    "company": "Puppet"
+  },
+  {
+    "name": "puppet-bolt",
+    "company": "Puppet"
+  },
+  {
+    "name": "PuranFileRecovery",
+    "company": "PuranSoftware"
+  },
+  {
+    "name": "i2pd",
+    "company": "PurpleI2P"
+  },
+  {
+    "name": "PuTTY",
+    "company": "PuTTY"
+  },
+  {
+    "name": "pyfa",
+    "company": "pyfa"
+  },
+  {
+    "name": "PYPrime",
+    "company": "PYPrime"
+  },
+  {
+    "name": "Python",
+    "company": "Python"
+  },
+  {
+    "name": "Qalculate",
+    "company": "Qalculate"
+  },
+  {
+    "name": "qBittorrent",
+    "company": "qBittorrent"
+  },
+  {
+    "name": "yesplaymusic",
+    "company": "qier222"
+  },
+  {
+    "name": "QuickLook",
+    "company": "QL-Win"
+  },
+  {
+    "name": "QMKToolbox",
+    "company": "QMK"
+  },
+  {
+    "name": "qmmp",
+    "company": "QmmpDevelopmentTeam"
+  },
+  {
+    "name": "QMPlay2",
+    "company": "QMPlay2"
+  },
+  {
+    "name": "Finder",
+    "company": "Qnap"
+  },
+  {
+    "name": "PDFStudio",
+    "company": "Qoppa"
+  },
+  {
+    "name": "SpaceEngine",
+    "company": "qotop"
+  },
+  {
+    "name": "QTextPad",
+    "company": "QTextPad"
+  },
+  {
+    "name": "IQEdge",
+    "company": "Questrade"
+  },
+  {
+    "name": "QTranslate",
+    "company": "QuestSoft"
+  },
+  {
+    "name": "Quicken",
+    "company": "Quicken"
+  },
+  {
+    "name": "RedEclipse",
+    "company": "QuintonReeves"
+  },
+  {
+    "name": "QuiteRSS",
+    "company": "QuiteRSS"
+  },
+  {
+    "name": "qutebrowser",
+    "company": "qutebrowser"
+  },
+  {
+    "name": "Qv2ray",
+    "company": "Qv2ray"
+  },
+  {
+    "name": "AssaultCube",
+    "company": "RabidViperProductions"
+  },
+  {
+    "name": "Racket",
+    "company": "Racket"
+  },
+  {
+    "name": "Winamp",
+    "company": "Radionomy"
+  },
+  {
+    "name": "RamboxCE",
+    "company": "Rambox"
+  },
+  {
+    "name": "7+TaskbarTweaker",
+    "company": "rammichael"
+  },
+  {
+    "name": "Textify",
+    "company": "rammichael"
+  },
+  {
+    "name": "DicomProxy",
+    "company": "RamSoft"
+  },
+  {
+    "name": "VidCoder",
+    "company": "RandomEngy"
+  },
+  {
+    "name": "VidCoderBeta",
+    "company": "RandomEngy"
+  },
+  {
+    "name": "SharpKeys",
+    "company": "RandyRants"
+  },
+  {
+    "name": "WinRAR",
+    "company": "RARLab"
+  },
+  {
+    "name": "WinRARBeta",
+    "company": "RARLab"
+  },
+  {
+    "name": "RaspberryPiImager",
+    "company": "RaspberryPiFoundation"
+  },
+  {
+    "name": "Reddit-Wallpaper-Changer",
+    "company": "Rawns"
+  },
+  {
+    "name": "RawTherapee",
+    "company": "RawTherapee"
+  },
+  {
+    "name": "7",
+    "company": "Razer"
+  },
+  {
+    "name": "StreamerCompanion",
+    "company": "Razer"
+  },
+  {
+    "name": "HWiNFO",
+    "company": "REALiX"
+  },
+  {
+    "name": "VNCServer",
+    "company": "RealVNC"
+  },
+  {
+    "name": "VNCViewer",
+    "company": "RealVNC"
+  },
+  {
+    "name": "Osara",
+    "company": "Reaper"
+  },
+  {
+    "name": "AudioBookConverter",
+    "company": "Recoupler"
+  },
+  {
+    "name": "CemUI",
+    "company": "RedDucks"
+  },
+  {
+    "name": "VirtViewer",
+    "company": "RedHat"
+  },
+  {
+    "name": "remoteit",
+    "company": "remot3it"
+  },
+  {
+    "name": "ProPresenter",
+    "company": "RenewedVision"
+  },
+  {
+    "name": "Renode",
+    "company": "Renode"
+  },
+  {
+    "name": "RescueTime",
+    "company": "RescueTime"
+  },
+  {
+    "name": "ResilioSync",
+    "company": "Resilio"
+  },
+  {
+    "name": "ResponsivelyApp",
+    "company": "ResponsivelyApp"
+  },
+  {
+    "name": "RestreamChat",
+    "company": "Restream"
+  },
+  {
+    "name": "Retroshare",
+    "company": "Retroshare"
+  },
+  {
+    "name": "CNCOnline",
+    "company": "Revora"
+  },
+  {
+    "name": "RevoUninstaller",
+    "company": "RevoUninstaller"
+  },
+  {
+    "name": "RevoUninstallerPro",
+    "company": "RevoUninstaller"
+  },
+  {
+    "name": "RazorSQL",
+    "company": "RichardsonSoftware"
+  },
+  {
+    "name": "bili",
+    "company": "richasy"
+  },
+  {
+    "name": "workspacer",
+    "company": "rickbutton"
+  },
+  {
+    "name": "Ricochet",
+    "company": "RicochetIM"
+  },
+  {
+    "name": "NSwagStudio",
+    "company": "RicoSuter"
+  },
+  {
+    "name": "RigsofRods",
+    "company": "RigsofRods"
+  },
+  {
+    "name": "AltServer",
+    "company": "RileyTestut"
+  },
+  {
+    "name": "TouchPortal",
+    "company": "Rils"
+  },
+  {
+    "name": "RingCentral",
+    "company": "RingCentral"
+  },
+  {
+    "name": "LeagueOfLegends",
+    "company": "RiotGames"
+  },
+  {
+    "name": "TheBat!",
+    "company": "Ritlabs"
+  },
+  {
+    "name": "Deckboard",
+    "company": "RivaFarabi"
+  },
+  {
+    "name": "frhed",
+    "company": "RKibria"
+  },
+  {
+    "name": "MusicOrganizer",
+    "company": "ROBdk97"
+  },
+  {
+    "name": "PDFKeeper",
+    "company": "RobertFFrasca"
+  },
+  {
+    "name": "RobloxBootstrapper",
+    "company": "ROBLOXCorporation"
+  },
+  {
+    "name": "RocketChat",
+    "company": "RocketChat"
+  },
+  {
+    "name": "LivelyWallpaper",
+    "company": "rocksdanister"
+  },
+  {
+    "name": "Ctrlr",
+    "company": "RomanKubiak"
+  },
+  {
+    "name": "LMath",
+    "company": "RoniLehto"
+  },
+  {
+    "name": "Roon",
+    "company": "RoonLabs"
+  },
+  {
+    "name": "RoonBridge",
+    "company": "RoonLabs"
+  },
+  {
+    "name": "RoonServer",
+    "company": "RoonLabs"
+  },
+  {
+    "name": "RoyalTS",
+    "company": "RoyalApps"
+  },
+  {
+    "name": "R",
+    "company": "RProject"
+  },
+  {
+    "name": "Rtools",
+    "company": "RProject"
+  },
+  {
+    "name": "RSSOwl",
+    "company": "RSSOwlTeam"
+  },
+  {
+    "name": "RStudio",
+    "company": "RStudio"
+  },
+  {
+    "name": "Ruby",
+    "company": "RubyInstallerTeam"
+  },
+  {
+    "name": "RubyWithDevKit",
+    "company": "RubyInstallerTeam"
+  },
+  {
+    "name": "Rufus",
+    "company": "Rufus"
+  },
+  {
+    "name": "RuneLite",
+    "company": "RuneLite"
+  },
+  {
+    "name": "Raindrop",
+    "company": "RustemMussabekov"
+  },
+  {
+    "name": "rust-gnu",
+    "company": "Rustlang"
+  },
+  {
+    "name": "rust-gnu-x64",
+    "company": "Rustlang"
+  },
+  {
+    "name": "rust-gnu-x86",
+    "company": "Rustlang"
+  },
+  {
+    "name": "rust-msvc",
+    "company": "Rustlang"
+  },
+  {
+    "name": "rust-msvc-x64",
+    "company": "Rustlang"
+  },
+  {
+    "name": "rust-msvc-x86",
+    "company": "Rustlang"
+  },
+  {
+    "name": "TradosStudio",
+    "company": "Rws"
+  },
+  {
+    "name": "GCFScape",
+    "company": "RyanGregg"
+  },
+  {
+    "name": "VTFEdit",
+    "company": "RyanGregg"
+  },
+  {
+    "name": "RyzenController",
+    "company": "RyzenControllerTeam"
+  },
+  {
+    "name": "Sabaki",
+    "company": "SabakiHQ"
+  },
+  {
+    "name": "CaesiumPH",
+    "company": "SaeraSoft"
+  },
+  {
+    "name": "SpybotAntiBeacon",
+    "company": "SaferNetworking"
+  },
+  {
+    "name": "Portmaster",
+    "company": "Safing"
+  },
+  {
+    "name": "SAGAGIS",
+    "company": "SAGAUserGroupAssociation"
+  },
+  {
+    "name": "SageMath",
+    "company": "SageMath"
+  },
+  {
+    "name": "Salad",
+    "company": "SaladTechnologies"
+  },
+  {
+    "name": "SaltMinion",
+    "company": "SaltStack"
+  },
+  {
+    "name": "WinCompose",
+    "company": "SamHocevar"
+  },
+  {
+    "name": "DeX",
+    "company": "Samsung"
+  },
+  {
+    "name": "SmartSwitch",
+    "company": "Samsung"
+  },
+  {
+    "name": "GooglePlayMusicDesktopPlayer",
+    "company": "SamuelAttard"
+  },
+  {
+    "name": "mini-diary",
+    "company": "samuelmeuli"
+  },
+  {
+    "name": "SandboxiePlus",
+    "company": "SandboxiePlus"
+  },
+  {
+    "name": "DYMOConnect",
+    "company": "SanfordLP"
+  },
+  {
+    "name": "DYMOLabel",
+    "company": "SanfordLP"
+  },
+  {
+    "name": "Zulu",
+    "company": "Sangoma"
+  },
+  {
+    "name": "SatisfactoryModManager",
+    "company": "SatisfactoryModding"
+  },
+  {
+    "name": "TrezorBridge",
+    "company": "SatoshiLabs"
+  },
+  {
+    "name": "GingerChrome",
+    "company": "Saxo_Broko"
+  },
+  {
+    "name": "Officialapp",
+    "company": "Saxo_Broko"
+  },
+  {
+    "name": "FFFTP",
+    "company": "Sayuri"
+  },
+  {
+    "name": "SBCL",
+    "company": "SBCL"
+  },
+  {
+    "name": "sbt",
+    "company": "sbt"
+  },
+  {
+    "name": "scala",
+    "company": "Scala"
+  },
+  {
+    "name": "schemacrawler",
+    "company": "schemacrawler"
+  },
+  {
+    "name": "Pymol",
+    "company": "Schrodinger"
+  },
+  {
+    "name": "Scilab",
+    "company": "Scilab"
+  },
+  {
+    "name": "SciTE",
+    "company": "Scintilla"
+  },
+  {
+    "name": "BeyondCompare4",
+    "company": "ScooterSoftware"
+  },
+  {
+    "name": "hosts-file-editor",
+    "company": "scottlerch"
+  },
+  {
+    "name": "ScratchForDiscord",
+    "company": "ScratchForDiscord"
+  },
+  {
+    "name": "Scribus",
+    "company": "Scribus"
+  },
+  {
+    "name": "ScummVM",
+    "company": "ScummVM"
+  },
+  {
+    "name": "Seafile",
+    "company": "Seafile"
+  },
+  {
+    "name": "seamonkey",
+    "company": "seamonkey"
+  },
+  {
+    "name": "SearchDeflector",
+    "company": "SearchDeflector"
+  },
+  {
+    "name": "orbitron",
+    "company": "sebastianstoff"
+  },
+  {
+    "name": "CertDump",
+    "company": "secana"
+  },
+  {
+    "name": "Boxcryptor",
+    "company": "SecombaGmbH"
+  },
+  {
+    "name": "Chat",
+    "company": "Secret"
+  },
+  {
+    "name": "extraterm",
+    "company": "sedwards2009"
+  },
+  {
+    "name": "PDFDesktop",
+    "company": "Sejda"
+  },
+  {
+    "name": "econap",
+    "company": "SelectCode"
+  },
+  {
+    "name": "Intuiter",
+    "company": "Seonglae"
+  },
+  {
+    "name": "TagScanner",
+    "company": "SergeySerkov"
+  },
+  {
+    "name": "DiscordMediaLoader",
+    "company": "Serraniel"
+  },
+  {
+    "name": "ServerManager",
+    "company": "ServerManager"
+  },
+  {
+    "name": "Jami",
+    "company": "SFLinux"
+  },
+  {
+    "name": "deepvocal-Geping",
+    "company": "ShaoheProject"
+  },
+  {
+    "name": "ShareX",
+    "company": "ShareX"
+  },
+  {
+    "name": "ClownfishVoiceChanger",
+    "company": "SharkLabs"
+  },
+  {
+    "name": "BitBoxApp",
+    "company": "ShiftCryptoAG"
+  },
+  {
+    "name": "shimo",
+    "company": "shimo"
+  },
+  {
+    "name": "OpenSSLLight",
+    "company": "ShiningLight"
+  },
+  {
+    "name": "sia-ui",
+    "company": "sia"
+  },
+  {
+    "name": "SideQuest",
+    "company": "SideQuestVR"
+  },
+  {
+    "name": "desktop-dimmer",
+    "company": "sidneys"
+  },
+  {
+    "name": "pb-for-desktop",
+    "company": "sidneys"
+  },
+  {
+    "name": "Sigil",
+    "company": "Sigil-Ebook"
+  },
+  {
+    "name": "Signal",
+    "company": "Signal"
+  },
+  {
+    "name": "Velocity",
+    "company": "SilverlakeSoftware"
+  },
+  {
+    "name": "CitycraftLauncher",
+    "company": "Simon511000"
+  },
+  {
+    "name": "ElectronCashSLP",
+    "company": "SimpleLedger"
+  },
+  {
+    "name": "Enpass",
+    "company": "Sinew"
+  },
+  {
+    "name": "CCEnhancer",
+    "company": "SingularLabs"
+  },
+  {
+    "name": "sipgatesoftphone",
+    "company": "sipgate"
+  },
+  {
+    "name": "KeyBridge",
+    "company": "Skaarhoj"
+  },
+  {
+    "name": "SKAARHOJUpdater",
+    "company": "SKAARHOJApS"
+  },
+  {
+    "name": "lightshot",
+    "company": "Skillbrains"
+  },
+  {
+    "name": "Lagrange",
+    "company": "skyjake"
+  },
+  {
+    "name": "Slack",
+    "company": "SlackTechnologies"
+  },
+  {
+    "name": "SlackBeta",
+    "company": "SlackTechnologies"
+  },
+  {
+    "name": "Autopsy",
+    "company": "SleuthKit"
+  },
+  {
+    "name": "Linrad",
+    "company": "SM5BSZ"
+  },
+  {
+    "name": "SoapUIOpenSource",
+    "company": "SmartBear"
+  },
+  {
+    "name": "IsoBuster",
+    "company": "SmartProjects"
+  },
+  {
+    "name": "SmartFTP",
+    "company": "SmartSoft"
+  },
+  {
+    "name": "SMPlayer",
+    "company": "SMPlayer"
+  },
+  {
+    "name": "snaketail",
+    "company": "snakefoot"
+  },
+  {
+    "name": "SnapmakerLuban",
+    "company": "SnapmakerDevTeam"
+  },
+  {
+    "name": "Snaz",
+    "company": "Snaz"
+  },
+  {
+    "name": "Snoop",
+    "company": "SnoopWpf"
+  },
+  {
+    "name": "FreeDownloadManager",
+    "company": "SoftDeluxe"
+  },
+  {
+    "name": "SoftPerfectNetworkScanner",
+    "company": "SoftPerfect"
+  },
+  {
+    "name": "QEMU",
+    "company": "SoftwareFreedomConservancy"
+  },
+  {
+    "name": "sonicpi",
+    "company": "SonicPi"
+  },
+  {
+    "name": "SonicVisualiser",
+    "company": "SonicVisualiser"
+  },
+  {
+    "name": "Controller",
+    "company": "Sonos"
+  },
+  {
+    "name": "S1Controller",
+    "company": "Sonos"
+  },
+  {
+    "name": "SonoBus",
+    "company": "Sonosaurus"
+  },
+  {
+    "name": "unsplash-wallpapers",
+    "company": "soroushchehresa"
+  },
+  {
+    "name": "HackFonts",
+    "company": "SourceFoundry"
+  },
+  {
+    "name": "efs",
+    "company": "Sowsoft"
+  },
+  {
+    "name": "openvpn-configuration-generator",
+    "company": "SparkLabs"
+  },
+  {
+    "name": "Viscosity",
+    "company": "SparkLabs"
+  },
+  {
+    "name": "SparkleShare",
+    "company": "SparkleShare"
+  },
+  {
+    "name": "fan",
+    "company": "speed"
+  },
+  {
+    "name": "SpeedCrunch",
+    "company": "SpeedCrunch"
+  },
+  {
+    "name": "pomotroid",
+    "company": "splode"
+  },
+  {
+    "name": "Spotify",
+    "company": "Spotify"
+  },
+  {
+    "name": "sqlectron-gui",
+    "company": "sqlectron"
+  },
+  {
+    "name": "Patchwork",
+    "company": "SSBC"
+  },
+  {
+    "name": "SSHFS-Win",
+    "company": "SSHFS-Win"
+  },
+  {
+    "name": "stack",
+    "company": "stack"
+  },
+  {
+    "name": "stackless",
+    "company": "stackless"
+  },
+  {
+    "name": "StandardNotes",
+    "company": "StandardNotes"
+  },
+  {
+    "name": "Start10",
+    "company": "Stardock"
+  },
+  {
+    "name": "StarfaceUCC",
+    "company": "StarfaceGmbH"
+  },
+  {
+    "name": "StarfaceUCCBeta",
+    "company": "StarfaceGmbH"
+  },
+  {
+    "name": "StarMessageScreensaver",
+    "company": "StarMessage"
+  },
+  {
+    "name": "mpv",
+    "company": "stax76"
+  },
+  {
+    "name": "GG",
+    "company": "SteelSeries"
+  },
+  {
+    "name": "SteelSeriesEngine",
+    "company": "SteelSeries"
+  },
+  {
+    "name": "grepWin",
+    "company": "StefanKueng"
+  },
+  {
+    "name": "Franz",
+    "company": "StefanMalzner"
+  },
+  {
+    "name": "StExBar",
+    "company": "StefansTools"
+  },
+  {
+    "name": "Superf4",
+    "company": "StefanSundin"
+  },
+  {
+    "name": "GitHubReleaseNotes",
+    "company": "StefHeyenrath"
+  },
+  {
+    "name": "Stellarium",
+    "company": "Stellarium"
+  },
+  {
+    "name": "OneMore",
+    "company": "stevencohn"
+  },
+  {
+    "name": "Coffee",
+    "company": "StevenCole"
+  },
+  {
+    "name": "proton",
+    "company": "steventhanna"
+  },
+  {
+    "name": "EverythingToolbar",
+    "company": "stnkl"
+  },
+  {
+    "name": "Strawberry",
+    "company": "StrawberryMusicPlayer"
+  },
+  {
+    "name": "StrawberryPerl",
+    "company": "StrawberryPerl"
+  },
+  {
+    "name": "StreamlabsOBS",
+    "company": "Streamlabs"
+  },
+  {
+    "name": "Streamlink",
+    "company": "Streamlink"
+  },
+  {
+    "name": "StreamlinkTwitchGui",
+    "company": "Streamlink"
+  },
+  {
+    "name": "Stremio",
+    "company": "Stremio"
+  },
+  {
+    "name": "Stretchly",
+    "company": "Stretchly"
+  },
+  {
+    "name": "Stride",
+    "company": "Stride"
+  },
+  {
+    "name": "Write",
+    "company": "StylusLabs"
+  },
+  {
+    "name": "XtremeDownloadManager",
+    "company": "subhra74"
+  },
+  {
+    "name": "SublimeMerge",
+    "company": "SublimeHQ"
+  },
+  {
+    "name": "SublimeText",
+    "company": "SublimeHQ"
+  },
+  {
+    "name": "SumatraPDF",
+    "company": "SumatraPDF"
+  },
+  {
+    "name": "music",
+    "company": "sunzongzheng"
+  },
+  {
+    "name": "SUPERAntiSpyware",
+    "company": "SUPERAntiSpyware"
+  },
+  {
+    "name": "SuperCollider",
+    "company": "SuperCollider"
+  },
+  {
+    "name": "SupernovaPlayer",
+    "company": "Supernova"
+  },
+  {
+    "name": "SuperTux",
+    "company": "SuperTux"
+  },
+  {
+    "name": "SuperTuxKart",
+    "company": "SuperTuxKart"
+  },
+  {
+    "name": "SurfsharkVPN",
+    "company": "Surfshark"
+  },
+  {
+    "name": "opensuse-leap-42",
+    "company": "suse"
+  },
+  {
+    "name": "SVGExplorerExtension",
+    "company": "SVGExplorerExtension"
+  },
+  {
+    "name": "Hardcopy",
+    "company": "sw4you"
+  },
+  {
+    "name": "010Editor",
+    "company": "SweetScape"
+  },
+  {
+    "name": "SyncTrayzor",
+    "company": "SyncTrayzor"
+  },
+  {
+    "name": "iNFektNFOViewer",
+    "company": "syndicode"
+  },
+  {
+    "name": "DriveClient",
+    "company": "Synology"
+  },
+  {
+    "name": "Synthesia",
+    "company": "Synthesia"
+  },
+  {
+    "name": "WinCDEmu",
+    "company": "Sysprogs"
+  },
+  {
+    "name": "SystemExplorer",
+    "company": "SystemExplorer"
+  },
+  {
+    "name": "AdvancedSystemOptimizer",
+    "company": "SystweakSoftware"
+  },
+  {
+    "name": "openstego",
+    "company": "syvaidya"
+  },
+  {
+    "name": "exifcleaner",
+    "company": "szTheory"
+  },
+  {
+    "name": "WinDynamicDesktop",
+    "company": "t1m0thyj"
+  },
+  {
+    "name": "Desktop",
+    "company": "Tableau"
+  },
+  {
+    "name": "TablePlus",
+    "company": "TablePlus"
+  },
+  {
+    "name": "tailscale",
+    "company": "tailscale"
+  },
+  {
+    "name": "Taisei",
+    "company": "Taisei"
+  },
+  {
+    "name": "Kangaroo",
+    "company": "Taozuhong"
+  },
+  {
+    "name": "Taskade",
+    "company": "TaskcadeInc"
+  },
+  {
+    "name": "tastyworks",
+    "company": "tastyworks"
+  },
+  {
+    "name": "aie",
+    "company": "team-aie"
+  },
+  {
+    "name": "Lidarr",
+    "company": "TeamLidarr"
+  },
+  {
+    "name": "Hakchi2-CE",
+    "company": "TeamShinkansen"
+  },
+  {
+    "name": "TeamSpeakClient",
+    "company": "TeamSpeakSystems"
+  },
+  {
+    "name": "TeamViewer",
+    "company": "TeamViewer"
+  },
+  {
+    "name": "TeamViewerHost",
+    "company": "TeamViewer"
+  },
+  {
+    "name": "TeamViewerQS",
+    "company": "TeamViewer"
+  },
+  {
+    "name": "TeaClient",
+    "company": "TeaSpeak"
+  },
+  {
+    "name": "GPU-Z",
+    "company": "TechPowerUp"
+  },
+  {
+    "name": "Camtasia",
+    "company": "TechSmith"
+  },
+  {
+    "name": "Snagit",
+    "company": "TechSmith"
+  },
+  {
+    "name": "TelegramDesktop",
+    "company": "Telegram"
+  },
+  {
+    "name": "TelegramDesktopBeta",
+    "company": "Telegram"
+  },
+  {
+    "name": "Fiddler",
+    "company": "Telerik"
+  },
+  {
+    "name": "FiddlerEverywhere",
+    "company": "Telerik"
+  },
+  {
+    "name": "FiddlerEverywhereBeta",
+    "company": "Telerik"
+  },
+  {
+    "name": "FiddlerEverywhereInsiders",
+    "company": "Telerik"
+  },
+  {
+    "name": "FiddlerEverywhereInternal",
+    "company": "Telerik"
+  },
+  {
+    "name": "QQ",
+    "company": "Tencent"
+  },
+  {
+    "name": "qq-devtool",
+    "company": "Tencent"
+  },
+  {
+    "name": "QQPlayer_cn",
+    "company": "Tencent"
+  },
+  {
+    "name": "TencentMeeting",
+    "company": "Tencent"
+  },
+  {
+    "name": "TencentVideo",
+    "company": "Tencent"
+  },
+  {
+    "name": "TIM",
+    "company": "Tencent"
+  },
+  {
+    "name": "VoovMeeting",
+    "company": "Tencent"
+  },
+  {
+    "name": "WeChat",
+    "company": "Tencent"
+  },
+  {
+    "name": "wechat-devtool",
+    "company": "Tencent"
+  },
+  {
+    "name": "wechat-work",
+    "company": "Tencent"
+  },
+  {
+    "name": "Weiyun",
+    "company": "Tencent"
+  },
+  {
+    "name": "WeiyunSync",
+    "company": "Tencent"
+  },
+  {
+    "name": "PyDebloatX",
+    "company": "Teraskull"
+  },
+  {
+    "name": "teraterm",
+    "company": "TeraTermProject"
+  },
+  {
+    "name": "ramme",
+    "company": "terkelg"
+  },
+  {
+    "name": "Termius",
+    "company": "Termius"
+  },
+  {
+    "name": "TerraStation",
+    "company": "Terra"
+  },
+  {
+    "name": "TI-Nspire",
+    "company": "TexasInstruments"
+  },
+  {
+    "name": "TIConnectCE",
+    "company": "TexasInstruments"
+  },
+  {
+    "name": "Texmaker",
+    "company": "Texmaker"
+  },
+  {
+    "name": "SecureDNS",
+    "company": "Texnomic"
+  },
+  {
+    "name": "TeXstudio",
+    "company": "TeXstudio"
+  },
+  {
+    "name": "TeXworks",
+    "company": "TeXworks"
+  },
+  {
+    "name": "BulkRenameUtility",
+    "company": "TGRMNSoftware"
+  },
+  {
+    "name": "Levelator",
+    "company": "TheConversationsNetwork"
+  },
+  {
+    "name": "Hamsket",
+    "company": "TheGoddessInari"
+  },
+  {
+    "name": "Groovy",
+    "company": "TheGroovyTeam"
+  },
+  {
+    "name": "GalaxyBudsClient",
+    "company": "ThePBone"
+  },
+  {
+    "name": "ToontownRewritten",
+    "company": "TheTTRTeam"
+  },
+  {
+    "name": "Dimension4",
+    "company": "ThinkingManSoftware"
+  },
+  {
+    "name": "MQTT-Explorer",
+    "company": "thomasnordquist"
+  },
+  {
+    "name": "XenorateMediaPlayer",
+    "company": "ThorstenSpaete"
+  },
+  {
+    "name": "ioninja",
+    "company": "tibbo"
+  },
+  {
+    "name": "tdevmon",
+    "company": "tibbo"
+  },
+  {
+    "name": "TickTick",
+    "company": "TickTick"
+  },
+  {
+    "name": "TIDAL",
+    "company": "TIDALMusicAS"
+  },
+  {
+    "name": "Publii",
+    "company": "TidyCustoms"
+  },
+  {
+    "name": "TikzEdtBeta",
+    "company": "TikzEdt"
+  },
+  {
+    "name": "Tiled",
+    "company": "Tiled"
+  },
+  {
+    "name": "WebDL",
+    "company": "Timber1900"
+  },
+  {
+    "name": "gmail-desktop",
+    "company": "timche"
+  },
+  {
+    "name": "FileZillaClient",
+    "company": "TimKosse"
+  },
+  {
+    "name": "TinyCAD",
+    "company": "TinyCAD"
+  },
+  {
+    "name": "zazu",
+    "company": "tinytacoteam"
+  },
+  {
+    "name": "utsu",
+    "company": "titinko"
+  },
+  {
+    "name": "TogglDesktop",
+    "company": "Toggl"
+  },
+  {
+    "name": "Colorpicker",
+    "company": "Toinane"
+  },
+  {
+    "name": "electron-outlook-365",
+    "company": "tomlm"
+  },
+  {
+    "name": "electron-outlook-com",
+    "company": "tomlm"
+  },
+  {
+    "name": "InternetDownloadManager",
+    "company": "Tonec"
+  },
+  {
+    "name": "ImageView",
+    "company": "TonyPottier"
+  },
+  {
+    "name": "SIW",
+    "company": "TopalaSoftwareSolutions"
+  },
+  {
+    "name": "TorGuard",
+    "company": "TorGuard"
+  },
+  {
+    "name": "TorBrowser",
+    "company": "TorProject"
+  },
+  {
+    "name": "TortoiseGit",
+    "company": "TortoiseGit"
+  },
+  {
+    "name": "TortoiseHg",
+    "company": "TortoiseHg"
+  },
+  {
+    "name": "TortoiseSVN",
+    "company": "TortoiseSVN"
+  },
+  {
+    "name": "PhotoSync",
+    "company": "touchbyte"
+  },
+  {
+    "name": "qTox",
+    "company": "Tox"
+  },
+  {
+    "name": "TradingViewDesktop",
+    "company": "TradingView"
+  },
+  {
+    "name": "TranslucentTB",
+    "company": "TranslucentTB"
+  },
+  {
+    "name": "Transmission",
+    "company": "Transmission"
+  },
+  {
+    "name": "TDAgent",
+    "company": "TreasureData"
+  },
+  {
+    "name": "Trelby",
+    "company": "Trelby"
+  },
+  {
+    "name": "Trillian",
+    "company": "Trillian"
+  },
+  {
+    "name": "SketchUpMake",
+    "company": "Trimble"
+  },
+  {
+    "name": "Ganache",
+    "company": "Trufflesuite"
+  },
+  {
+    "name": "MTPutty",
+    "company": "TTYPlus"
+  },
+  {
+    "name": "TeXLive",
+    "company": "TUG"
+  },
+  {
+    "name": "TunnelBear",
+    "company": "TunnelBear"
+  },
+  {
+    "name": "Tutanota",
+    "company": "Tutanota"
+  },
+  {
+    "name": "TweakShotScreenCapture",
+    "company": "TweakingTechnologies"
+  },
+  {
+    "name": "Authy",
+    "company": "Twilio"
+  },
+  {
+    "name": "browser",
+    "company": "twinkstar"
+  },
+  {
+    "name": "Twitch",
+    "company": "Twitch"
+  },
+  {
+    "name": "Electorrent",
+    "company": "Tympanix"
+  },
+  {
+    "name": "TypeFaster",
+    "company": "TypeFaster"
+  },
+  {
+    "name": "Typora",
+    "company": "Typora"
+  },
+  {
+    "name": "LightBulb",
+    "company": "Tyrrrz"
+  },
+  {
+    "name": "UniFiNetworkController",
+    "company": "Ubiquiti"
+  },
+  {
+    "name": "Connect",
+    "company": "Ubisoft"
+  },
+  {
+    "name": "BOINC",
+    "company": "UCBerkeley"
+  },
+  {
+    "name": "UFRaw",
+    "company": "UdiFuchs"
+  },
+  {
+    "name": "RobotKarol3",
+    "company": "UlliFreiberger"
+  },
+  {
+    "name": "Cura",
+    "company": "Ultimaker"
+  },
+  {
+    "name": "UltraDefrag",
+    "company": "UltraDefrag"
+  },
+  {
+    "name": "expresso",
+    "company": "ultrapico"
+  },
+  {
+    "name": "UtvideoCodecSuite",
+    "company": "UMEZAWATakeshi"
+  },
+  {
+    "name": "Unchecky",
+    "company": "Unchecky"
+  },
+  {
+    "name": "UnifiedRemote",
+    "company": "UnifiedIntents"
+  },
+  {
+    "name": "HeavenBenchmark",
+    "company": "Unigine"
+  },
+  {
+    "name": "SuperpositionBenchmark",
+    "company": "Unigine"
+  },
+  {
+    "name": "ValleyBenchmark",
+    "company": "Unigine"
+  },
+  {
+    "name": "Unity",
+    "company": "UnityTechnologies"
+  },
+  {
+    "name": "UnityHub",
+    "company": "UnityTechnologies"
+  },
+  {
+    "name": "UniversalMediaServer",
+    "company": "UniversalMediaServer"
+  },
+  {
+    "name": "Orange",
+    "company": "UniversityofLjubljana"
+  },
+  {
+    "name": "Weka",
+    "company": "UniversityOfWaikato"
+  },
+  {
+    "name": "Foldit",
+    "company": "UniversityOfWashington"
+  },
+  {
+    "name": "unofficial-protonmail-desktop",
+    "company": "unofficial-protonmail-desktop"
+  },
+  {
+    "name": "utools",
+    "company": "utools"
+  },
+  {
+    "name": "UltraVnc",
+    "company": "uvncbvba"
+  },
+  {
+    "name": "BloomRPC",
+    "company": "uw-labs"
+  },
+  {
+    "name": "reko",
+    "company": "uxmal"
+  },
+  {
+    "name": "MAILLE",
+    "company": "V"
+  },
+  {
+    "name": "Steam",
+    "company": "Valve"
+  },
+  {
+    "name": "klogg",
+    "company": "variar"
+  },
+  {
+    "name": "Voicemeeter",
+    "company": "VB-Audio"
+  },
+  {
+    "name": "VoicemeeterBanana",
+    "company": "VB-Audio"
+  },
+  {
+    "name": "VoicemeeterPotato",
+    "company": "VB-Audio"
+  },
+  {
+    "name": "VCVRack",
+    "company": "VCVRack"
+  },
+  {
+    "name": "Airshipper",
+    "company": "Veloren"
+  },
+  {
+    "name": "MediaMonkey",
+    "company": "VentisMedia"
+  },
+  {
+    "name": "Veyon",
+    "company": "VeyonSolutions"
+  },
+  {
+    "name": "Viber",
+    "company": "Viber"
+  },
+  {
+    "name": "VLC",
+    "company": "VideoLAN"
+  },
+  {
+    "name": "VLCNightly",
+    "company": "VideoLAN"
+  },
+  {
+    "name": "vim",
+    "company": "vim"
+  },
+  {
+    "name": "Harmony",
+    "company": "VincentL"
+  },
+  {
+    "name": "VirtualMagnifyingGlass",
+    "company": "VirtualMagnifyingGlass"
+  },
+  {
+    "name": "VirusTotalUploader",
+    "company": "VirusTotal"
+  },
+  {
+    "name": "Vivaldi",
+    "company": "VivaldiTechnologies"
+  },
+  {
+    "name": "Vivi",
+    "company": "ViviCorporation"
+  },
+  {
+    "name": "winLAME",
+    "company": "vividos"
+  },
+  {
+    "name": "VKMessenger",
+    "company": "VKontakte"
+  },
+  {
+    "name": "HorizonClient",
+    "company": "VMware"
+  },
+  {
+    "name": "IntelligentHub",
+    "company": "VMware"
+  },
+  {
+    "name": "WorkstationPlayer",
+    "company": "VMware"
+  },
+  {
+    "name": "WorkstationPro",
+    "company": "VMware"
+  },
+  {
+    "name": "Zalo",
+    "company": "VNGCorp"
+  },
+  {
+    "name": "Voicemod",
+    "company": "Voicemod"
+  },
+  {
+    "name": "Everything",
+    "company": "voidtools"
+  },
+  {
+    "name": "EverythingLite",
+    "company": "voidtools"
+  },
+  {
+    "name": "Jamulus",
+    "company": "VolkerFischer"
+  },
+  {
+    "name": "Vrew",
+    "company": "VoyagerX"
+  },
+  {
+    "name": "ChordPro",
+    "company": "Vromans"
+  },
+  {
+    "name": "VSCodium",
+    "company": "VSCodium"
+  },
+  {
+    "name": "butterflow-ui",
+    "company": "wagesj45"
+  },
+  {
+    "name": "Electron-iGot",
+    "company": "wahao"
+  },
+  {
+    "name": "AeroZoom",
+    "company": "wandersick"
+  },
+  {
+    "name": "ChMac",
+    "company": "wandersick"
+  },
+  {
+    "name": "EnglishizeCmd",
+    "company": "wandersick"
+  },
+  {
+    "name": "BilibiliVideoDownload",
+    "company": "wangyu"
+  },
+  {
+    "name": "GameCenter",
+    "company": "Wargaming"
+  },
+  {
+    "name": "Warzone2100",
+    "company": "Warzone2100Project"
+  },
+  {
+    "name": "MazeratorOld",
+    "company": "WaterbugStudios"
+  },
+  {
+    "name": "Waterfox",
+    "company": "Waterfox"
+  },
+  {
+    "name": "WaterfoxClassic",
+    "company": "Waterfox"
+  },
+  {
+    "name": "WeakAurasCompanion",
+    "company": "WeakAuras"
+  },
+  {
+    "name": "replayweb-page",
+    "company": "webrecorder"
+  },
+  {
+    "name": "SecureAnywhere",
+    "company": "Webroot"
+  },
+  {
+    "name": "Desktop",
+    "company": "WebTorrent"
+  },
+  {
+    "name": "SQLyogCommunity",
+    "company": "Webyog"
+  },
+  {
+    "name": "WeMod",
+    "company": "WeMod"
+  },
+  {
+    "name": "WeModBeta",
+    "company": "WeMod"
+  },
+  {
+    "name": "WeModPreview",
+    "company": "WeMod"
+  },
+  {
+    "name": "Ghostwriter",
+    "company": "WereTurtle"
+  },
+  {
+    "name": "BattleForWesnoth",
+    "company": "Wesnoth"
+  },
+  {
+    "name": "SanDiskSSDDashboard",
+    "company": "WesternDigital"
+  },
+  {
+    "name": "WesternDigitalDashboard",
+    "company": "WesternDigitalCorporation"
+  },
+  {
+    "name": "MarkdownMonster",
+    "company": "WestWind"
+  },
+  {
+    "name": "onenotetaggingkit",
+    "company": "wethat"
+  },
+  {
+    "name": "wexond",
+    "company": "wexond"
+  },
+  {
+    "name": "wgyttk",
+    "company": "wgyt"
+  },
+  {
+    "name": "WhatPulse",
+    "company": "WhatPulse"
+  },
+  {
+    "name": "WhatsApp",
+    "company": "WhatsApp"
+  },
+  {
+    "name": "fedora-remix-for-wsl",
+    "company": "whitewaterfoundry"
+  },
+  {
+    "name": "WikidPad",
+    "company": "WikidPad"
+  },
+  {
+    "name": "0AD",
+    "company": "WildfireGames"
+  },
+  {
+    "name": "X2COPY",
+    "company": "WilliamKent"
+  },
+  {
+    "name": "AnvilStudio",
+    "company": "WillowSoftware"
+  },
+  {
+    "name": "win32diskimager",
+    "company": "Win32diskimager"
+  },
+  {
+    "name": "Ryzom",
+    "company": "WinchGate"
+  },
+  {
+    "name": "WinDirStat",
+    "company": "WinDirStat"
+  },
+  {
+    "name": "Windscribe",
+    "company": "Windscribe"
+  },
+  {
+    "name": "WinFsp",
+    "company": "WinFsp"
+  },
+  {
+    "name": "Wings3D",
+    "company": "Wings3D"
+  },
+  {
+    "name": "WinMerge",
+    "company": "WinMerge"
+  },
+  {
+    "name": "winpython",
+    "company": "winpython"
+  },
+  {
+    "name": "winpython-dot",
+    "company": "winpython"
+  },
+  {
+    "name": "WinSCP",
+    "company": "WinSCP"
+  },
+  {
+    "name": "WinSCPRC",
+    "company": "WinSCP"
+  },
+  {
+    "name": "WireGuard",
+    "company": "WireGuard"
+  },
+  {
+    "name": "Wireshark",
+    "company": "WiresharkFoundation"
+  },
+  {
+    "name": "MathType7",
+    "company": "Wiris"
+  },
+  {
+    "name": "WiseDiskCleaner",
+    "company": "WiseCleaner"
+  },
+  {
+    "name": "wiznote",
+    "company": "wiznote"
+  },
+  {
+    "name": "wiznotelite",
+    "company": "wiznote"
+  },
+  {
+    "name": "WolframEngine",
+    "company": "WolframResearch"
+  },
+  {
+    "name": "Workrave",
+    "company": "Workrave"
+  },
+  {
+    "name": "Wowup",
+    "company": "WowUp"
+  },
+  {
+    "name": "Wox",
+    "company": "Wox"
+  },
+  {
+    "name": "Wolai",
+    "company": "Woyun"
+  },
+  {
+    "name": "Local",
+    "company": "WPEngine"
+  },
+  {
+    "name": "writage",
+    "company": "writage"
+  },
+  {
+    "name": "x2goclient",
+    "company": "X2go"
+  },
+  {
+    "name": "crushee",
+    "company": "xanderfrangos"
+  },
+  {
+    "name": "twinkletray",
+    "company": "xanderfrangos"
+  },
+  {
+    "name": "HTTrack",
+    "company": "XavierRoche"
+  },
+  {
+    "name": "Kodi",
+    "company": "XBMCFoundation"
+  },
+  {
+    "name": "Mitalk",
+    "company": "xiaomi"
+  },
+  {
+    "name": "miuiplus",
+    "company": "xiaomi"
+  },
+  {
+    "name": "electron-vue-cloud-music",
+    "company": "xiaozhu188"
+  },
+  {
+    "name": "NexusFont",
+    "company": "xiles"
+  },
+  {
+    "name": "deepvocal-Itsukiyoru-jpn",
+    "company": "xinxex"
+  },
+  {
+    "name": "Xmake",
+    "company": "Xmake-io"
+  },
+  {
+    "name": "XMind2020",
+    "company": "XMind"
+  },
+  {
+    "name": "Xming",
+    "company": "Xming"
+  },
+  {
+    "name": "XMoto",
+    "company": "XMoto"
+  },
+  {
+    "name": "XnConvert",
+    "company": "XnSoft"
+  },
+  {
+    "name": "XnViewClassic",
+    "company": "XnSoft"
+  },
+  {
+    "name": "XnViewMP",
+    "company": "XnSoft"
+  },
+  {
+    "name": "Broadcaster",
+    "company": "XSplit"
+  },
+  {
+    "name": "VCam",
+    "company": "XSplit"
+  },
+  {
+    "name": "XunleiMediaPlayer",
+    "company": "XunLei"
+  },
+  {
+    "name": "xunleix",
+    "company": "XunLei"
+  },
+  {
+    "name": "YACReader",
+    "company": "YACReader"
+  },
+  {
+    "name": "YaCy",
+    "company": "YaCy"
+  },
+  {
+    "name": "ttth",
+    "company": "yafp"
+  },
+  {
+    "name": "fluent-reader",
+    "company": "yang991178"
+  },
+  {
+    "name": "Yarn",
+    "company": "Yarn"
+  },
+  {
+    "name": "KrunkerClient",
+    "company": "YendisEntertainment"
+  },
+  {
+    "name": "yomail",
+    "company": "yomail"
+  },
+  {
+    "name": "YoudaoDict",
+    "company": "Youdao"
+  },
+  {
+    "name": "YoudaoNote",
+    "company": "Youdao"
+  },
+  {
+    "name": "Ytmdesktop",
+    "company": "Ytmdesktop"
+  },
+  {
+    "name": "Authenticator",
+    "company": "Yubico"
+  },
+  {
+    "name": "YubikeyManager",
+    "company": "Yubico"
+  },
+  {
+    "name": "cpod",
+    "company": "z-------------"
+  },
+  {
+    "name": "Zap",
+    "company": "Zap"
+  },
+  {
+    "name": "Hyper",
+    "company": "Zeit"
+  },
+  {
+    "name": "zerotier",
+    "company": "zerotier"
+  },
+  {
+    "name": "Zettlr",
+    "company": "Zettlr"
+  },
+  {
+    "name": "nglide",
+    "company": "zeus"
+  },
+  {
+    "name": "gitnote",
+    "company": "zhaopengme"
+  },
+  {
+    "name": "Zint",
+    "company": "Zint"
+  },
+  {
+    "name": "Zoom",
+    "company": "Zoom"
+  },
+  {
+    "name": "zoomoutlookplugin",
+    "company": "Zoom"
+  },
+  {
+    "name": "Zotero",
+    "company": "Zotero"
+  },
+  {
+    "name": "Zulip",
+    "company": "Zulip"
+  },
+  {
+    "name": "Ritchie-CLI",
+    "company": "ZupIT"
+  },
+  {
+    "name": "Zwift",
+    "company": "Zwift"
+  },
+  {
+    "name": "ZygorClient",
+    "company": "ZygorGuides"
+  },
+  {
+    "name": "Compass",
+    "company": "Zype"
+  }
+]
